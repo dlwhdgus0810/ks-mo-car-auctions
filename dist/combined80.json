@@ -3623,12 +3623,12 @@
     "currentSource": "https://www.copart.com/lot/68074766",
     "titleAbsent": false,
     "overBidCeiling": false,
-    "comparisonSampleCount": 0,
+    "comparisonSampleCount": 1,
     "comparisonMedian": null,
-    "comparisonRecords": 0,
-    "comparisonCheckedAt": "2026-09-16",
-    "comparisonAverage": null,
-    "comparisonAverageCount": 0
+    "comparisonRecords": 3,
+    "comparisonCheckedAt": "2026-09-17",
+    "comparisonAverage": 5683.333333333333,
+    "comparisonAverageCount": 3
   },
   {
     "rank": 23,
