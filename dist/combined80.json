@@ -67,7 +67,7 @@
     "reason": "외판·실내 온전하다는 원본 관찰. 우박 자국과 별개로 유리·누수·IVT 점검 필요.",
     "photoFinding": "외판·램프·유리가 갖춰져 있고 큰 충돌 변형이나 전개된 전면 에어백은 보이지 않습니다. 실내 사용감과 계기판의 문 열림 표시가 보입니다.",
     "auction": "Mon. Sep 21, 2026 12:00 PM CDT",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "originalRank": 1,
     "components": {
       "손상·수리 범위 /30": 27,
@@ -132,7 +132,7 @@
     "serviceHistory": "실제 작업 날짜·주행거리·수리 항목이 있는 정비 기록 미확보. 엔진·변속기 교체 여부 미확인.",
     "priorAuction": "Future · 날짜 미정",
     "availability": "scheduled",
-    "currentBid": 275,
+    "currentBid": 6000,
     "titleDocument": "MO - Certificate Of Title",
     "sellerNote": "Copart 공개 상세 조회",
     "condition": "Run and Drive",
@@ -141,17 +141,23 @@
     "sublot": "306 COBBLESTONE DRIVE, SEYMOUR, MO 65746",
     "saleType": "Seller reserve not yet met",
     "sourceUpdated": "09/15/2026 9:31 am",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/54713756",
     "titleAbsent": false,
-    "overBidCeiling": false,
+    "overBidCeiling": true,
     "comparisonSampleCount": 0,
     "comparisonMedian": null,
     "comparisonRecords": 4,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 3750.0,
-    "comparisonAverageCount": 4
+    "comparisonAverageCount": 4,
+    "previousCheck": {
+      "availability": "scheduled",
+      "currentBid": 275,
+      "auction": "Mon. Sep 21, 2026 12:00 PM CDT",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "73342175",
@@ -159,7 +165,7 @@
     "miles": 56649,
     "yard": "Wichita",
     "titleState": "KS",
-    "currentBid": 300,
+    "currentBid": 175,
     "maxBid": 5200,
     "repairReserve": 1500,
     "auction": "Future",
@@ -256,7 +262,7 @@
     "source": "index.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "우박·유리·센서 진단. 현재가로 최종 낙찰가를 예측하지 않음.",
     "engine": "M20A-FKS",
     "originalTotal": 9700,
@@ -341,8 +347,8 @@
     "location": "KS - WICHITA",
     "sublot": "",
     "sourceUpdated": "09/04/2026 12:47 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/73342175",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -351,7 +357,13 @@
     "comparisonRecords": 7,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 5453.571428571428,
-    "comparisonAverageCount": 7
+    "comparisonAverageCount": 7,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 300,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "66458476",
@@ -359,7 +371,7 @@
     "miles": 102595,
     "yard": "Wichita",
     "titleState": "KS",
-    "currentBid": 3450,
+    "currentBid": null,
     "maxBid": 3500,
     "repairReserve": 1500,
     "auction": "Wed. Sep 16, 2026 12:00 PM CDT",
@@ -456,7 +468,7 @@
     "source": "index.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "유리·타이어·주행거리 대비 정비 이력, CVT 점검.",
     "engine": "2ZR-FE",
     "originalTotal": 7800,
@@ -518,15 +530,15 @@
     "floodHistory": "침수 없음 확정 불가. 공개 자료에서 구체적인 침수 사건 미확인; 전체 보험·DMV 이력은 미조회.",
     "serviceHistory": "실제 작업 날짜·주행거리·수리 항목이 있는 정비 기록 미확보. 엔진·변속기 교체 여부 미확인.",
     "priorAuction": "2026-09-16 12:00 CDT",
-    "availability": "live",
+    "availability": "sold",
     "titleDocument": "KS - Cert Of Title-salvage",
     "condition": "Run and Drive",
     "odometerStatus": "Actual",
     "location": "KS - WICHITA",
     "sublot": "",
     "sourceUpdated": "09/16/2026 6:00 am",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/66458476",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -535,7 +547,13 @@
     "comparisonRecords": 4,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 3562.5,
-    "comparisonAverageCount": 4
+    "comparisonAverageCount": 4,
+    "previousCheck": {
+      "availability": "live",
+      "currentBid": 3450,
+      "auction": "Wed. Sep 16, 2026 12:00 PM CDT",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "66018206",
@@ -640,7 +658,7 @@
     "source": "index.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "엔진 냉간 소음·오일 소모·변속·도난 방지 및 보험 인수 여부 확인.",
     "engine": "2L",
     "originalTotal": 7100,
@@ -709,8 +727,8 @@
     "location": "KS - KANSAS CITY",
     "sublot": "",
     "sourceUpdated": "09/14/2026 4:21 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/66018206",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -719,7 +737,13 @@
     "comparisonRecords": 4,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 2375.0,
-    "comparisonAverageCount": 4
+    "comparisonAverageCount": 4,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 0,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "67303746",
@@ -824,7 +848,7 @@
     "source": "index.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "주행거리 대비 CVT·냉각계통·오일 상태 점검.",
     "engine": "2ZR-FAE",
     "originalTotal": 8200,
@@ -908,8 +932,8 @@
     "location": "KS - KANSAS CITY",
     "sublot": "",
     "sourceUpdated": "09/08/2026 1:12 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/67303746",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -918,7 +942,13 @@
     "comparisonRecords": 5,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 5030.0,
-    "comparisonAverageCount": 5
+    "comparisonAverageCount": 5,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 0,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "61144086",
@@ -926,7 +956,7 @@
     "miles": 82821,
     "yard": "Wichita",
     "titleState": "KS",
-    "currentBid": 4200,
+    "currentBid": 200,
     "maxBid": 5000,
     "repairReserve": 1500,
     "auction": "Future",
@@ -1023,7 +1053,7 @@
     "source": "index.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "전후 유리 실물 검사·센서 보정 견적 필요.",
     "engine": "M20-FKS",
     "originalTotal": 9500,
@@ -1107,8 +1137,8 @@
     "location": "KS - WICHITA",
     "sublot": "",
     "sourceUpdated": "09/02/2026 4:54 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/61144086",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -1117,7 +1147,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 5516.666666666667,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 4200,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "62951896",
@@ -1153,7 +1189,7 @@
     "reason": "우박 위주라는 원본 관찰. 10만 마일 CVT 열간 시운전·정비 이력과 입찰 자격 확인.",
     "photoFinding": "원본 관찰 요약: 우박 위주라는 원본 관찰. 10만 마일 CVT 열간 시운전·정비 이력과 입찰 자격 확인.",
     "auction": "Upcoming lot",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "originalRank": 9,
     "components": {
       "손상·수리 범위 /30": 27,
@@ -1223,8 +1259,8 @@
     "sublot": "1619 S GOLDEN AVE, SPRINGFIELD, MO 65807",
     "saleType": "Pure sale",
     "sourceUpdated": "08/13/2026 4:11 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/62951896",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -1233,7 +1269,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 2066.6666666666665,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "upcoming",
+      "currentBid": null,
+      "auction": "Upcoming lot",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "57882066",
@@ -1269,7 +1311,7 @@
     "reason": "원본상 우박·Run & Drive. 엔진 오일 소모·냉간 소음·유리 검사, 계정별 입찰 자격 확인.",
     "photoFinding": "원본 관찰 요약: 원본상 우박·Run & Drive. 엔진 오일 소모·냉간 소음·유리 검사, 계정별 입찰 자격 확인.",
     "auction": "Upcoming lot",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "originalRank": 8,
     "components": {
       "손상·수리 범위 /30": 27,
@@ -1343,8 +1385,8 @@
     "sublot": "",
     "saleType": "Pure sale",
     "sourceUpdated": "09/02/2026 7:38 am",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/57882066",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -1353,7 +1395,13 @@
     "comparisonRecords": 4,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 2075.0,
-    "comparisonAverageCount": 4
+    "comparisonAverageCount": 4,
+    "previousCheck": {
+      "availability": "upcoming",
+      "currentBid": null,
+      "auction": "Upcoming lot",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "66814326",
@@ -1361,7 +1409,7 @@
     "miles": 78444,
     "yard": "KC",
     "titleState": "MO",
-    "currentBid": 175,
+    "currentBid": null,
     "maxBid": 5500,
     "repairReserve": 1500,
     "auction": "Thu. Sep 17, 2026 12:00 PM CDT",
@@ -1458,7 +1506,7 @@
     "source": "index.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "우박 패널·유리·CVT 작동 및 하부 확인.",
     "engine": "K20C2",
     "originalTotal": 9700,
@@ -1523,15 +1571,15 @@
     "floodHistory": "침수 없음 확정 불가. 공개 자료에서 구체적인 침수 사건 미확인; 전체 보험·DMV 이력은 미조회.",
     "serviceHistory": "실제 작업 날짜·주행거리·수리 항목이 있는 정비 기록 미확보. 엔진·변속기 교체 여부 미확인.",
     "priorAuction": "2026-09-17 12:00 CDT",
-    "availability": "scheduled",
+    "availability": "sold",
     "titleDocument": "MO - Salvage Certificate Of Title",
     "condition": "Run and Drive",
     "odometerStatus": "Actual",
     "location": "KS - KANSAS CITY",
     "sublot": "",
     "sourceUpdated": "09/16/2026 9:34 am",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/66814326",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -1540,7 +1588,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 4300.0,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "scheduled",
+      "currentBid": 175,
+      "auction": "Thu. Sep 17, 2026 12:00 PM CDT",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "67463736",
@@ -1645,7 +1699,7 @@
     "source": "index.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "냉간 시동·오일 소모·CVT·정비 이력 확인.",
     "engine": "2ZR-FE",
     "originalTotal": 6700,
@@ -1725,8 +1779,8 @@
     "location": "KS - KANSAS CITY",
     "sublot": "",
     "sourceUpdated": "09/01/2026 5:10 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/67463736",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -1735,7 +1789,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 2683.3333333333335,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 0,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "67824346",
@@ -1836,7 +1896,7 @@
     "source": "index.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "도어·필러 실측, 유리·CVT 점검. 수리 예비비 $2,500.",
     "engine": "2ZR-FE",
     "originalTotal": 7600,
@@ -1909,8 +1969,8 @@
     "location": "KS - KANSAS CITY",
     "sublot": "",
     "sourceUpdated": "09/10/2026 4:57 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/67824346",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -1919,7 +1979,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 2800.0,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 0,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "rank": 12,
@@ -2004,7 +2070,7 @@
     "source": "suv.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "15년 된 차량의 고무 부품·냉각계통·부식·누유 점검. 낮은 주행거리는 정비 이력으로 대조.",
     "engine": "2.5L · FWD",
     "originalTotal": 8800,
@@ -2070,8 +2136,8 @@
     "location": "KS - KANSAS CITY",
     "sublot": "",
     "sourceUpdated": "09/15/2026 8:08 am",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/68040146",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -2080,7 +2146,13 @@
     "comparisonRecords": 4,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 2381.25,
-    "comparisonAverageCount": 4
+    "comparisonAverageCount": 4,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 0,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "52447896",
@@ -2116,7 +2188,7 @@
     "reason": "우박 위주·높은 주행거리. 냉간 시동·오일 소모·하부와 입찰 자격 확인.",
     "photoFinding": "원본 관찰 요약: 우박 위주·높은 주행거리. 냉간 시동·오일 소모·하부와 입찰 자격 확인.",
     "auction": "Upcoming lot",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "originalRank": 14,
     "components": {
       "손상·수리 범위 /30": 27,
@@ -2190,8 +2262,8 @@
     "sublot": "",
     "saleType": "Pure sale",
     "sourceUpdated": "08/10/2026 4:20 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/52447896",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -2200,7 +2272,13 @@
     "comparisonRecords": 4,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 2075.0,
-    "comparisonAverageCount": 4
+    "comparisonAverageCount": 4,
+    "previousCheck": {
+      "availability": "upcoming",
+      "currentBid": null,
+      "auction": "Upcoming lot",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "66708186",
@@ -2305,7 +2383,7 @@
     "source": "index.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "13.9만 mi에 맞춘 엔진·CVT·하체 점검.",
     "engine": "K24W1",
     "originalTotal": 7300,
@@ -2370,8 +2448,8 @@
     "location": "KS - KANSAS CITY",
     "sublot": "6211 KANSAS AVENUE, KANSAS CITY, KS 66111",
     "sourceUpdated": "09/02/2026 5:43 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/66708186",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -2380,7 +2458,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 2675.0,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 0,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "59820326",
@@ -2485,7 +2569,7 @@
     "source": "index.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "유리·누수·정비 알림 원인 확인. 외관 복원은 별도.",
     "engine": "A25A-FKS",
     "originalTotal": 9100,
@@ -2560,8 +2644,8 @@
     "location": "KS - KANSAS CITY",
     "sublot": "",
     "sourceUpdated": "08/21/2026 4:49 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/59820326",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -2570,7 +2654,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 7616.666666666667,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 100,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "66255136",
@@ -2675,7 +2765,7 @@
     "source": "index.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "앞유리 교체 견적·실내 누수·유리 파편 점검.",
     "engine": "2AR-FE",
     "originalTotal": 9100,
@@ -2740,8 +2830,8 @@
     "location": "KS - KANSAS CITY",
     "sublot": "",
     "sourceUpdated": "09/02/2026 6:25 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/66255136",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -2750,7 +2840,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 2366.6666666666665,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 0,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "rank": 17,
@@ -2838,7 +2934,7 @@
     "source": "suv.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "엔진 오일량·소모 이력, 냉간 소음·압축·리콜 조치 여부와 하부 검사.",
     "engine": "2.0L · FWD",
     "originalTotal": 9800,
@@ -2907,8 +3003,8 @@
     "location": "KS - KANSAS CITY",
     "sublot": "",
     "sourceUpdated": "09/14/2026 4:50 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/68347506",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -2917,7 +3013,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 5133.333333333333,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 0,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "65278226",
@@ -2925,7 +3027,7 @@
     "miles": 103331,
     "yard": "KC",
     "titleState": "KS",
-    "currentBid": 250,
+    "currentBid": null,
     "maxBid": 3500,
     "repairReserve": 2000,
     "auction": "Thu. Sep 17, 2026 12:00 PM CDT",
@@ -3022,7 +3124,7 @@
     "source": "index.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "CVT·AWD·타이어 네 짝 일치·누유 점검.",
     "engine": "U5",
     "originalTotal": 7900,
@@ -3089,15 +3191,15 @@
     "floodHistory": "침수 없음 확정 불가. 공개 자료에서 구체적인 침수 사건 미확인; 전체 보험·DMV 이력은 미조회.",
     "serviceHistory": "실제 작업 날짜·주행거리·수리 항목이 있는 정비 기록 미확보. 엔진·변속기 교체 여부 미확인.",
     "priorAuction": "2026-09-17 12:00 CDT",
-    "availability": "scheduled",
+    "availability": "sold",
     "titleDocument": "KS - Cert Of Title-salvage",
     "condition": "Run and Drive",
     "odometerStatus": "Actual",
     "location": "KS - KANSAS CITY",
     "sublot": "",
     "sourceUpdated": "09/16/2026 9:34 am",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/65278226",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -3106,7 +3208,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 2100.0,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "scheduled",
+      "currentBid": 250,
+      "auction": "Thu. Sep 17, 2026 12:00 PM CDT",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "68630226",
@@ -3142,7 +3250,7 @@
     "reason": "우박 위주. 10.8만 마일 IVT 진단과 오일 소모 확인. 즉시구매가와 입찰 상한은 별개.",
     "photoFinding": "원본 관찰 요약: 우박 위주. 10.8만 마일 IVT 진단과 오일 소모 확인. 즉시구매가와 입찰 상한은 별개.",
     "auction": "Wed. Sep 16, 2026 12:00 PM CDT",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "originalRank": 11,
     "components": {
       "손상·수리 범위 /30": 27,
@@ -3200,8 +3308,8 @@
     "vinDecodeError": "0",
     "vinSource": "https://vpic.nhtsa.dot.gov/api/vehicles/DecodeVinValues/3KPF24AD8KE091798?format=json",
     "priorAuction": "2026-9/16 12:00",
-    "availability": "live",
-    "currentBid": 2100,
+    "availability": "sold",
+    "currentBid": null,
     "titleDocument": "MO - Cert Of Title-repossessed",
     "sellerNote": "Copart 공개 상세 조회",
     "condition": "Run and Drive",
@@ -3210,8 +3318,8 @@
     "sublot": "1619 S GOLDEN AVE, SPRINGFIELD, MO 65807",
     "saleType": "",
     "sourceUpdated": "09/14/2026 4:07 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/68630226",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -3220,7 +3328,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 3100.0,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "live",
+      "currentBid": 2100,
+      "auction": "Wed. Sep 16, 2026 12:00 PM CDT",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "89131265",
@@ -3255,8 +3369,8 @@
     "inspection": "원본상 경미 흠집·Run & Drive. 11.4만 마일 CVT와 입찰 자격이 핵심.",
     "reason": "원본상 경미 흠집·Run & Drive. 11.4만 마일 CVT와 입찰 자격이 핵심.",
     "photoFinding": "원본 관찰 요약: 원본상 경미 흠집·Run & Drive. 11.4만 마일 CVT와 입찰 자격이 핵심.",
-    "auction": "Tue. Sep 15, 2026 12:00 PM CDT",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auction": "Tue. Sep 22, 2026 12:00 PM CDT",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "originalRank": 13,
     "components": {
       "손상·수리 범위 /30": 27,
@@ -3312,8 +3426,8 @@
     "vinDecodeError": "0",
     "vinSource": "https://vpic.nhtsa.dot.gov/api/vehicles/DecodeVinValues/3N1AB7AP6KY341823?format=json",
     "priorAuction": "2026-9/15 12:00",
-    "availability": "ended",
-    "currentBid": null,
+    "availability": "scheduled",
+    "currentBid": 1150,
     "titleDocument": "AL - Certificate Of Title",
     "sellerNote": "Copart 공개 상세 조회",
     "condition": "Run and Drive",
@@ -3322,8 +3436,8 @@
     "sublot": "",
     "saleType": "",
     "sourceUpdated": "09/15/2026 4:01 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/89131265",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -3332,7 +3446,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": 1533.3333333333333,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "ended",
+      "currentBid": null,
+      "auction": "Tue. Sep 15, 2026 12:00 PM CDT",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "62630566",
@@ -3368,7 +3488,7 @@
     "reason": "원본상 앞범퍼 벌어짐·흠집. 보강재·냉각계통·엔진 상태가 양호할 때 저가 후보.",
     "photoFinding": "원본 관찰 요약: 원본상 앞범퍼 벌어짐·흠집. 보강재·냉각계통·엔진 상태가 양호할 때 저가 후보.",
     "auction": "Tue. Sep 15, 2026 12:00 PM CDT",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "originalRank": 16,
     "components": {
       "손상·수리 범위 /30": 20,
@@ -3436,8 +3556,8 @@
     "sublot": "",
     "saleType": "",
     "sourceUpdated": "09/16/2026 8:53 am",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/62630566",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -3446,7 +3566,13 @@
     "comparisonRecords": 0,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": null,
-    "comparisonAverageCount": 0
+    "comparisonAverageCount": 0,
+    "previousCheck": {
+      "availability": "sold",
+      "currentBid": null,
+      "auction": "Tue. Sep 15, 2026 12:00 PM CDT",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "rank": 22,
@@ -3534,7 +3660,7 @@
     "source": "suv.html",
     "evidence": "Copart 사진 직접 확인 · VIN 17자리 대조",
     "nlc": null,
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "inspection": "CVT 열간 시운전·진단, AWD와 카메라·레이더 점검.",
     "engine": "2.5L · AWD",
     "originalTotal": 9700,
@@ -3618,8 +3744,8 @@
     "location": "KS - KANSAS CITY",
     "sublot": "",
     "sourceUpdated": "09/10/2026 4:40 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/68074766",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -3628,7 +3754,13 @@
     "comparisonRecords": 3,
     "comparisonCheckedAt": "2026-09-17",
     "comparisonAverage": 5683.333333333333,
-    "comparisonAverageCount": 3
+    "comparisonAverageCount": 3,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 1000,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "rank": 23,
@@ -12068,10 +12200,10 @@
     "sublot": "",
     "saleType": "Pure sale",
     "sourceUpdated": "09/15/2026 4:21 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/68787566",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "eligibility": "KS Salvage 일반 규정 해당 · 본인 계정 Eligibility 미확인",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -12080,7 +12212,13 @@
     "comparisonRecords": 0,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": null,
-    "comparisonAverageCount": 0
+    "comparisonAverageCount": 0,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 0,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "68542176",
@@ -12144,10 +12282,10 @@
     "sublot": "",
     "saleType": "Pure sale",
     "sourceUpdated": "09/15/2026 5:08 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/68542176",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "eligibility": "KS Salvage 일반 규정 해당 · 본인 계정 Eligibility 미확인",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -12156,7 +12294,13 @@
     "comparisonRecords": 0,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": null,
-    "comparisonAverageCount": 0
+    "comparisonAverageCount": 0,
+    "previousCheck": {
+      "availability": "future",
+      "currentBid": 0,
+      "auction": "Future",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "68671526",
@@ -12206,9 +12350,9 @@
     "score": null,
     "nlc": null,
     "priorAuction": null,
-    "auction": "Upcoming lot",
-    "availability": "upcoming",
-    "currentBid": null,
+    "auction": "Future",
+    "availability": "future",
+    "currentBid": 0,
     "titleDocument": "KS - Cert Of Title-salvage",
     "titleState": "KS",
     "seller": "USAA",
@@ -12220,10 +12364,10 @@
     "sublot": "",
     "saleType": "Pure sale",
     "sourceUpdated": "09/16/2026 10:37 am",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/68671526",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "eligibility": "KS Salvage 일반 규정 해당 · 본인 계정 Eligibility 미확인",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -12232,7 +12376,13 @@
     "comparisonRecords": 0,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": null,
-    "comparisonAverageCount": 0
+    "comparisonAverageCount": 0,
+    "previousCheck": {
+      "availability": "upcoming",
+      "currentBid": null,
+      "auction": "Upcoming lot",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "61899356",
@@ -12296,10 +12446,10 @@
     "sublot": "1619 S GOLDEN AVE, SPRINGFIELD, MO 65807",
     "saleType": "Pure sale",
     "sourceUpdated": "09/11/2026 9:07 am",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/61899356",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "eligibility": "MO Clean 일반 규정 해당 · 본인 계정 Eligibility 미확인",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -12308,7 +12458,13 @@
     "comparisonRecords": 0,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": null,
-    "comparisonAverageCount": 0
+    "comparisonAverageCount": 0,
+    "previousCheck": {
+      "availability": "upcoming",
+      "currentBid": null,
+      "auction": "Upcoming lot",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "60613726",
@@ -12372,10 +12528,10 @@
     "sublot": "",
     "saleType": "",
     "sourceUpdated": "08/20/2026 9:48 am",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/60613726",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "eligibility": "MO Clean 일반 규정 해당 · 본인 계정 Eligibility 미확인",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -12384,7 +12540,13 @@
     "comparisonRecords": 0,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": null,
-    "comparisonAverageCount": 0
+    "comparisonAverageCount": 0,
+    "previousCheck": {
+      "availability": "upcoming",
+      "currentBid": null,
+      "auction": "Upcoming lot",
+      "currentCheckedAt": "2026-09-16"
+    }
   },
   {
     "id": "60467806",
@@ -12448,10 +12610,10 @@
     "sublot": "1619 S GOLDEN AVE, SPRINGFIELD, MO 65807",
     "saleType": "Pure sale",
     "sourceUpdated": "08/18/2026 1:27 pm",
-    "currentCheckedAt": "2026-09-16",
-    "currentCheckWindow": "2026-09-16 12:39–12:52 CDT",
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
     "currentSource": "https://www.copart.com/lot/60467806",
-    "auctionNote": "Copart 직접 재조회 2026-09-16 · 일정/입찰가는 이후 변경될 수 있음",
+    "auctionNote": "Copart 2026-09-20 직접 재조회. 현재 입찰가는 최종 낙찰가가 아닙니다.",
     "eligibility": "MO Clean 일반 규정 해당 · 본인 계정 Eligibility 미확인",
     "titleAbsent": false,
     "overBidCeiling": false,
@@ -12460,6 +12622,81 @@
     "comparisonRecords": 0,
     "comparisonCheckedAt": "2026-09-16",
     "comparisonAverage": null,
-    "comparisonAverageCount": 0
+    "comparisonAverageCount": 0,
+    "previousCheck": {
+      "availability": "upcoming",
+      "currentBid": null,
+      "auction": "Upcoming lot",
+      "currentCheckedAt": "2026-09-16"
+    }
+  },
+  {
+    "id": "50791176",
+    "vehicle": "2021 Toyota Corolla LE",
+    "rank": 87,
+    "isNew": true,
+    "region": "KS",
+    "body": "Sedan",
+    "yard": "KC",
+    "title": "Salvage",
+    "titleState": "KS",
+    "titleDocument": "KS - Cert Of Title-salvage",
+    "vin": "5YFEPMAE3MP******",
+    "vinStatus": "공개 VIN 뒷자리 가림 · 사양·이력 미조회",
+    "miles": 86235,
+    "odometerStatus": "Actual",
+    "damage": "Hail",
+    "seller": "USAA",
+    "sellerNote": "Copart 공개 상세 표기",
+    "engine": "1.8L 4 · Automatic · FWD",
+    "vinEngine": "1.8L",
+    "vinTrim": "미확인",
+    "condition": "Run and Drive",
+    "auction": "Future",
+    "availability": "future",
+    "currentBid": 0,
+    "maxBid": 4000,
+    "copartFees": 1000,
+    "salesTaxReserve": 500,
+    "transportReserve": 300,
+    "repairReserve": 2500,
+    "roundedTotal": 9000,
+    "registrationInspectionReserve": 400,
+    "membershipReserve": 100,
+    "prepurchaseInspectionReserve": 200,
+    "titleAbsent": false,
+    "overBidCeiling": false,
+    "location": "KS - KANSAS CITY",
+    "sublot": "",
+    "saleType": "Pure sale",
+    "mpgCombined": null,
+    "mpgCity": null,
+    "mpgHighway": null,
+    "mpgSource": "",
+    "mpgNote": "정확한 연비 사양 미조회",
+    "photos": [
+      {
+        "path": "https://cs.copart.com/v1/AUTH_svc.pdoc00001/ids-c-prod-lpp/0426/6504b3073a0b4565ad26616de01401ac_hrs.jpg"
+      }
+    ],
+    "photoFinding": "Copart 공개 대표 사진 링크. 이번 추가에서 전체 사진·엔진음은 평가하지 않았습니다.",
+    "evidence": "매물 기본 정보 직접 확인 · 사진·엔진음·VIN 상세 이력 평가 전",
+    "inspection": "우박·유리·센서·냉간 시동·CVT 진단과 실제 수리 견적 확인 필요.",
+    "tier": 2,
+    "status": "신규 · 정밀 점검 전",
+    "eligibility": "KS Salvage 일반 규정 해당 · 본인 계정 Eligibility 미확인",
+    "comparisonAverage": null,
+    "comparisonAverageCount": 0,
+    "comparisonMedian": null,
+    "comparisonSampleCount": 0,
+    "comparisonRecords": 0,
+    "currentCheckedAt": "2026-09-20",
+    "currentCheckWindow": "2026-09-20 CDT · Copart 직접 조회",
+    "sourceUpdated": "09/02/2026 3:27 pm",
+    "url": "https://www.copart.com/lot/50791176",
+    "currentSource": "https://www.copart.com/lot/50791176",
+    "source": "combined.html",
+    "audioAssessment": "직접 청취하지 못함",
+    "budgetNote": "입찰 상한 $4,000 + 수수료 임시 적립 $1,000 + 세금 임시 적립 $500 + 운송 $300 + 수리 $2,500 + 등록·멤버십·점검 $700 = $9,000. 확정 견적이 아니며 우박 전체 외관 복원은 제외."
   }
 ]
