@@ -1,0 +1,516 @@
+{
+  "checkedAt": "2026-09-23 CDT",
+  "existingChecked": [
+    "89131265",
+    "73342175",
+    "66018206",
+    "67303746",
+    "61144086",
+    "62951896",
+    "57882066",
+    "67463736",
+    "67824346",
+    "68040146",
+    "52447896",
+    "66708186",
+    "59820326",
+    "66255136",
+    "68347506",
+    "68074766",
+    "60234636",
+    "62026146",
+    "85979535",
+    "67089566",
+    "67289766",
+    "56644356",
+    "61411886",
+    "60953876",
+    "62801036",
+    "67222806",
+    "67767886",
+    "57783336",
+    "63031466",
+    "61707486",
+    "56681616",
+    "67181256",
+    "65809996",
+    "62560656",
+    "67360886",
+    "68021716",
+    "63509536",
+    "75971465",
+    "62295176",
+    "48953663",
+    "67092526",
+    "68544326",
+    "65709846",
+    "67201176",
+    "64200676",
+    "59114686",
+    "62966806",
+    "67126866",
+    "85972145",
+    "58358206",
+    "61161096",
+    "68787566",
+    "68542176",
+    "68671526",
+    "61899356",
+    "60613726",
+    "60467806",
+    "50791176",
+    "65487846",
+    "64587966"
+  ],
+  "changes": [
+    {
+      "id": "89131265",
+      "vehicle": "2019 Nissan Sentra S",
+      "before": {
+        "currentBid": 1150,
+        "availability": "scheduled",
+        "auction": "Tue. Sep 22, 2026 12:00 PM CDT",
+        "titleDocument": "AL - Certificate Of Title",
+        "currentCheckedAt": "2026-09-21"
+      },
+      "after": {
+        "currentBid": null,
+        "availability": "ended",
+        "auction": "Tue. Sep 22, 2026 12:00 PM CDT",
+        "titleDocument": "AL - Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "61144086",
+      "vehicle": "2020 Toyota Corolla SE",
+      "before": {
+        "currentBid": 2100,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "KS - Cert Of Title-salvage",
+        "currentCheckedAt": "2026-09-21"
+      },
+      "after": {
+        "currentBid": 175,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "KS - Cert Of Title-salvage",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "57882066",
+      "vehicle": "2018 Kia Forte S",
+      "before": {
+        "currentBid": null,
+        "availability": "upcoming",
+        "auction": "Upcoming lot",
+        "titleDocument": "MO - Certificate Of Title",
+        "currentCheckedAt": "2026-09-20"
+      },
+      "after": {
+        "currentBid": 0,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Salvage Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "67463736",
+      "vehicle": "2016 Toyota Corolla S Plus",
+      "before": {
+        "currentBid": 0,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "KS - Cert Of Title-salvage",
+        "currentCheckedAt": "2026-09-20"
+      },
+      "after": {
+        "currentBid": 0,
+        "availability": "scheduled",
+        "auction": "Tue. Sep 29, 2026 12:00 PM CDT",
+        "titleDocument": "KS - Cert Of Title-salvage",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "66708186",
+      "vehicle": "2015 Honda Accord LX",
+      "before": {
+        "currentBid": 0,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Salvage Certificate Of Title",
+        "currentCheckedAt": "2026-09-20"
+      },
+      "after": {
+        "currentBid": 725,
+        "availability": "scheduled",
+        "auction": "Thu. Sep 24, 2026 12:00 PM CDT",
+        "titleDocument": "MO - Salvage Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "60234636",
+      "vehicle": "2019 Subaru Forester Sport",
+      "before": {
+        "currentBid": 2450,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Salvage Certificate Of Title",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 2100,
+        "availability": "scheduled",
+        "auction": "Thu. Sep 24, 2026 12:00 PM CDT",
+        "titleDocument": "MO - Salvage Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "61411886",
+      "vehicle": "2016 Hyundai Tucson Limited",
+      "before": {
+        "currentBid": 100,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Certificate Of Title",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 0,
+        "availability": "scheduled",
+        "auction": "Mon. Sep 28, 2026 12:00 PM CDT",
+        "titleDocument": "MO - Salvage Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "60953876",
+      "vehicle": "2018 Nissan Rogue Sport SL",
+      "before": {
+        "currentBid": 225,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Certificate Of Title",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": null,
+        "availability": "sold",
+        "auction": "Tue. Sep 22, 2026 12:00 PM CDT",
+        "titleDocument": "MO - Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "62801036",
+      "vehicle": "2021 Chevrolet Traverse LT",
+      "before": {
+        "currentBid": 1250,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Certificate Of Title",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 175,
+        "availability": "scheduled",
+        "auction": "Fri. Sep 25, 2026 12:00 PM CDT",
+        "titleDocument": "MO - Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "67222806",
+      "vehicle": "2021 Honda HR-V EX",
+      "before": {
+        "currentBid": 175,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "KS - Cert Of Title-salvage",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 225,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "KS - Cert Of Title-salvage",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "57783336",
+      "vehicle": "2018 Ford Taurus SE",
+      "before": {
+        "currentBid": 100,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Certificate Of Title",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 125,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "63031466",
+      "vehicle": "2019 Ford Explorer Limited",
+      "before": {
+        "currentBid": 100,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Certificate Of Title",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 3100,
+        "availability": "scheduled",
+        "auction": "Wed. Sep 23, 2026 12:00 PM CDT",
+        "titleDocument": "MO - Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "61707486",
+      "vehicle": "2018 Honda Civic LX",
+      "before": {
+        "currentBid": 100,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "TX - Certificate Of Title",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": null,
+        "availability": "upcoming",
+        "auction": "Upcoming lot",
+        "titleDocument": "TX - Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "65809996",
+      "vehicle": "2012 Honda Accord EX-L V6",
+      "before": {
+        "currentBid": 100,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Salvage Certificate Of Title",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 0,
+        "availability": "scheduled",
+        "auction": "Thu. Sep 24, 2026 12:00 PM CDT",
+        "titleDocument": "MO - Salvage Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "62560656",
+      "vehicle": "2018 Buick Encore Preferred",
+      "before": {
+        "currentBid": 0,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Certificate Of Title",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 0,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Salvage Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "67360886",
+      "vehicle": "2018 Subaru Outback 3.6R Limited",
+      "before": {
+        "currentBid": 0,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "KS - Cert Of Title-salvage",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 100,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "KS - Cert Of Title-salvage",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "67201176",
+      "vehicle": "2019 Hyundai Kona SEL",
+      "before": {
+        "currentBid": 0,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "KS - Cert Of Title-salvage",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 450,
+        "availability": "scheduled",
+        "auction": "Thu. Sep 24, 2026 12:00 PM CDT",
+        "titleDocument": "KS - Cert Of Title-salvage",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "64200676",
+      "vehicle": "2018 Ford Escape SEL",
+      "before": {
+        "currentBid": 175,
+        "availability": "scheduled",
+        "auction": "Tue. Sep 22, 2026 12:00 PM CDT",
+        "titleDocument": "MT - Certificate Of Title",
+        "currentCheckedAt": "2026-09-21"
+      },
+      "after": {
+        "currentBid": null,
+        "availability": "sold",
+        "auction": "Tue. Sep 22, 2026 12:00 PM CDT",
+        "titleDocument": "MT - Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "59114686",
+      "vehicle": "2022 Toyota Corolla LE",
+      "before": {
+        "currentBid": 0,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "KS - Cert Of Title-salvage",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 175,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "KS - Cert Of Title-salvage",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "62966806",
+      "vehicle": "2022 Ford Bronco Sport",
+      "before": {
+        "currentBid": 0,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Certificate Of Title",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 550,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "MO - Salvage Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "67126866",
+      "vehicle": "2020 Jeep Grand Cherokee Laredo",
+      "before": {
+        "currentBid": 250,
+        "availability": "future",
+        "auction": "Future",
+        "titleDocument": "LA - Cert Of Title-hail Damaged",
+        "currentCheckedAt": "2026-09-16"
+      },
+      "after": {
+        "currentBid": 2800,
+        "availability": "scheduled",
+        "auction": "Wed. Sep 23, 2026 12:00 PM CDT",
+        "titleDocument": "LA - Cert Of Title-hail Damaged",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "58358206",
+      "vehicle": "2021 Ford Escape SEL",
+      "before": {
+        "currentBid": 300,
+        "availability": "scheduled",
+        "auction": "Tue. Sep 22, 2026 12:00 PM CDT",
+        "titleDocument": "IL - Certificate Of Title",
+        "currentCheckedAt": "2026-09-21"
+      },
+      "after": {
+        "currentBid": 0,
+        "availability": "scheduled",
+        "auction": "Tue. Sep 29, 2026 12:00 PM CDT",
+        "titleDocument": "IL - Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "65487846",
+      "vehicle": "2023 Chevrolet Malibu LT",
+      "before": {
+        "currentBid": null,
+        "availability": "ended",
+        "auction": "Mon. Sep 21, 2026 12:00 PM CDT",
+        "titleDocument": "VA - Certificate Of Title",
+        "currentCheckedAt": "2026-09-21"
+      },
+      "after": {
+        "currentBid": null,
+        "availability": "sold",
+        "auction": "Mon. Sep 21, 2026 12:00 PM CDT",
+        "titleDocument": "VA - Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    },
+    {
+      "id": "64587966",
+      "vehicle": "2020 Chevrolet Malibu LS",
+      "before": {
+        "currentBid": null,
+        "availability": "ended",
+        "auction": "Mon. Sep 21, 2026 12:00 PM CDT",
+        "titleDocument": "WV - Certificate Of Title",
+        "currentCheckedAt": "2026-09-21"
+      },
+      "after": {
+        "currentBid": null,
+        "availability": "sold",
+        "auction": "Mon. Sep 21, 2026 12:00 PM CDT",
+        "titleDocument": "WV - Certificate Of Title",
+        "currentCheckedAt": "2026-09-23"
+      }
+    }
+  ],
+  "newCandidates": [
+    "69125816",
+    "67610536",
+    "66032736"
+  ],
+  "searchScope": "First visible result pages: Kansas Toyota Corolla; Missouri clean SUV and sedan; Kansas salvage hail SUV. Not exhaustive.",
+  "notAdded": [
+    {
+      "id": "67914696",
+      "reason": "Title Absent; VIN/vehicle identity requires verification."
+    },
+    {
+      "id": "69570896",
+      "reason": "Title Absent; inspection pending."
+    }
+  ],
+  "note": "Read-only observations of Copart public detail pages. New candidates have no full VIN, photo or audio assessment. Budget reserves are provisional."
+}

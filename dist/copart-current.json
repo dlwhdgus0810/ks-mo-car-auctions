@@ -1,5 +1,5 @@
 {
-  "note": "Mixed observation dates; consult currentCheckedAt for each lot.",
+  "note": "Mixed observation dates; consult currentCheckedAt. Final sale prices were not publicly shown.",
   "lots": [
     {
       "id": "54713756",
@@ -7,6 +7,7 @@
       "currentBid": null,
       "auction": "Mon. Sep 21, 2026 12:00 PM CDT",
       "titleDocument": "MO - Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-21",
       "currentSource": "https://www.copart.com/lot/54713756"
     },
@@ -16,7 +17,8 @@
       "currentBid": 300,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-21",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/73342175"
     },
     {
@@ -25,6 +27,7 @@
       "currentBid": null,
       "auction": "Wed. Sep 16, 2026 12:00 PM CDT",
       "titleDocument": "KS - Cert Of Title-salvage",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-20",
       "currentSource": "https://www.copart.com/lot/66458476"
     },
@@ -34,7 +37,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/66018206"
     },
     {
@@ -43,16 +47,18 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "IA - Cert Of Title-salvage Title",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/67303746"
     },
     {
       "id": "61144086",
       "availability": "future",
-      "currentBid": 2100,
+      "currentBid": 175,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-21",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/61144086"
     },
     {
@@ -61,16 +67,18 @@
       "currentBid": null,
       "auction": "Upcoming lot",
       "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/62951896"
     },
     {
       "id": "57882066",
-      "availability": "upcoming",
-      "currentBid": null,
-      "auction": "Upcoming lot",
-      "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-20",
+      "availability": "future",
+      "currentBid": 0,
+      "auction": "Future",
+      "titleDocument": "MO - Salvage Certificate Of Title",
+      "needsBroker": true,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/57882066"
     },
     {
@@ -79,16 +87,18 @@
       "currentBid": null,
       "auction": "Thu. Sep 17, 2026 12:00 PM CDT",
       "titleDocument": "MO - Salvage Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-20",
       "currentSource": "https://www.copart.com/lot/66814326"
     },
     {
       "id": "67463736",
-      "availability": "future",
+      "availability": "scheduled",
       "currentBid": 0,
-      "auction": "Future",
+      "auction": "Tue. Sep 29, 2026 12:00 PM CDT",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/67463736"
     },
     {
@@ -97,7 +107,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/67824346"
     },
     {
@@ -106,7 +117,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/68040146"
     },
     {
@@ -115,16 +127,18 @@
       "currentBid": null,
       "auction": "Upcoming lot",
       "titleDocument": "KS - Electronic Cert Of Title",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/52447896"
     },
     {
       "id": "66708186",
-      "availability": "future",
-      "currentBid": 0,
-      "auction": "Future",
+      "availability": "scheduled",
+      "currentBid": 725,
+      "auction": "Thu. Sep 24, 2026 12:00 PM CDT",
       "titleDocument": "MO - Salvage Certificate Of Title",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/66708186"
     },
     {
@@ -133,7 +147,8 @@
       "currentBid": 100,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/59820326"
     },
     {
@@ -142,7 +157,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/66255136"
     },
     {
@@ -151,7 +167,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-21",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/68347506"
     },
     {
@@ -160,6 +177,7 @@
       "currentBid": null,
       "auction": "Thu. Sep 17, 2026 12:00 PM CDT",
       "titleDocument": "KS - Cert Of Title-salvage",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-20",
       "currentSource": "https://www.copart.com/lot/65278226"
     },
@@ -169,16 +187,18 @@
       "currentBid": null,
       "auction": "Wed. Sep 16, 2026 12:00 PM CDT",
       "titleDocument": "MO - Cert Of Title-repossessed",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-20",
       "currentSource": "https://www.copart.com/lot/68630226"
     },
     {
       "id": "89131265",
-      "availability": "scheduled",
-      "currentBid": 1150,
+      "availability": "ended",
+      "currentBid": null,
       "auction": "Tue. Sep 22, 2026 12:00 PM CDT",
       "titleDocument": "AL - Certificate Of Title",
-      "currentCheckedAt": "2026-09-21",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/89131265"
     },
     {
@@ -187,6 +207,7 @@
       "currentBid": null,
       "auction": "Tue. Sep 15, 2026 12:00 PM CDT",
       "titleDocument": "MO - Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-20",
       "currentSource": "https://www.copart.com/lot/62630566"
     },
@@ -196,16 +217,18 @@
       "currentBid": 1000,
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
-      "currentCheckedAt": "2026-09-21",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/68074766"
     },
     {
       "id": "60234636",
-      "availability": "future",
-      "currentBid": 2450,
-      "auction": "Future",
+      "availability": "scheduled",
+      "currentBid": 2100,
+      "auction": "Thu. Sep 24, 2026 12:00 PM CDT",
       "titleDocument": "MO - Salvage Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/60234636"
     },
     {
@@ -214,6 +237,7 @@
       "currentBid": null,
       "auction": "Thu. Sep 17, 2026 12:00 PM CDT",
       "titleDocument": "MO - Salvage Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-21",
       "currentSource": "https://www.copart.com/lot/62420466"
     },
@@ -223,6 +247,7 @@
       "currentBid": null,
       "auction": "Mon. Sep 21, 2026 12:00 PM CDT",
       "titleDocument": "KS - Cert Of Title-salvage",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-21",
       "currentSource": "https://www.copart.com/lot/65957186"
     },
@@ -232,7 +257,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/62026146"
     },
     {
@@ -241,7 +267,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/85979535"
     },
     {
@@ -250,7 +277,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/67089566"
     },
     {
@@ -259,6 +287,7 @@
       "currentBid": null,
       "auction": "Tue. Sep 15, 2026 12:00 PM CDT",
       "titleDocument": "KS - Cert Of Title-salvage",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/65742956"
     },
@@ -268,7 +297,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/67289766"
     },
     {
@@ -277,6 +307,7 @@
       "currentBid": null,
       "auction": "Wed. Sep 16, 2026 12:00 PM CDT",
       "titleDocument": "MO - Certificate Of Title Title Absent",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/68859496"
     },
@@ -286,34 +317,38 @@
       "currentBid": null,
       "auction": "Upcoming lot",
       "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/56644356"
     },
     {
       "id": "61411886",
-      "availability": "future",
-      "currentBid": 100,
-      "auction": "Future",
-      "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "availability": "scheduled",
+      "currentBid": 0,
+      "auction": "Mon. Sep 28, 2026 12:00 PM CDT",
+      "titleDocument": "MO - Salvage Certificate Of Title",
+      "needsBroker": true,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/61411886"
     },
     {
       "id": "60953876",
-      "availability": "future",
-      "currentBid": 225,
-      "auction": "Future",
+      "availability": "sold",
+      "currentBid": null,
+      "auction": "Tue. Sep 22, 2026 12:00 PM CDT",
       "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/60953876"
     },
     {
       "id": "62801036",
-      "availability": "future",
-      "currentBid": 1250,
-      "auction": "Future",
+      "availability": "scheduled",
+      "currentBid": 175,
+      "auction": "Fri. Sep 25, 2026 12:00 PM CDT",
       "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/62801036"
     },
     {
@@ -322,6 +357,7 @@
       "currentBid": null,
       "auction": "Tue. Sep 15, 2026 12:00 PM CDT",
       "titleDocument": "MO - Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/66492966"
     },
@@ -331,16 +367,18 @@
       "currentBid": null,
       "auction": "Tue. Sep 15, 2026 12:00 PM CDT",
       "titleDocument": "KS - Cert Of Title-salvage",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/65599336"
     },
     {
       "id": "67222806",
       "availability": "future",
-      "currentBid": 175,
+      "currentBid": 225,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/67222806"
     },
     {
@@ -349,16 +387,18 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/67767886"
     },
     {
       "id": "57783336",
       "availability": "future",
-      "currentBid": 100,
+      "currentBid": 125,
       "auction": "Future",
       "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/57783336"
     },
     {
@@ -367,6 +407,7 @@
       "currentBid": null,
       "auction": "Tue. Sep 15, 2026 12:00 PM CDT",
       "titleDocument": "IL - Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/59807505"
     },
@@ -376,16 +417,18 @@
       "currentBid": null,
       "auction": "Tue. Sep 15, 2026 12:00 PM CDT",
       "titleDocument": "MO - Salvage Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/64586406"
     },
     {
       "id": "63031466",
-      "availability": "future",
-      "currentBid": 100,
-      "auction": "Future",
+      "availability": "scheduled",
+      "currentBid": 3100,
+      "auction": "Wed. Sep 23, 2026 12:00 PM CDT",
       "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/63031466"
     },
     {
@@ -394,16 +437,18 @@
       "currentBid": null,
       "auction": "Wed. Sep 16, 2026 12:00 PM CDT",
       "titleDocument": "MO - Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/57063216"
     },
     {
       "id": "61707486",
-      "availability": "future",
-      "currentBid": 100,
-      "auction": "Future",
+      "availability": "upcoming",
+      "currentBid": null,
+      "auction": "Upcoming lot",
       "titleDocument": "TX - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/61707486"
     },
     {
@@ -412,7 +457,8 @@
       "currentBid": null,
       "auction": "Upcoming lot",
       "titleDocument": "KS - Electronic Cert Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/56681616"
     },
     {
@@ -421,16 +467,18 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/67181256"
     },
     {
       "id": "65809996",
-      "availability": "future",
-      "currentBid": 100,
-      "auction": "Future",
+      "availability": "scheduled",
+      "currentBid": 0,
+      "auction": "Thu. Sep 24, 2026 12:00 PM CDT",
       "titleDocument": "MO - Salvage Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/65809996"
     },
     {
@@ -438,17 +486,19 @@
       "availability": "future",
       "currentBid": 0,
       "auction": "Future",
-      "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "titleDocument": "MO - Salvage Certificate Of Title",
+      "needsBroker": true,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/62560656"
     },
     {
       "id": "67360886",
       "availability": "future",
-      "currentBid": 0,
+      "currentBid": 100,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/67360886"
     },
     {
@@ -457,7 +507,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/68021716"
     },
     {
@@ -466,7 +517,8 @@
       "currentBid": null,
       "auction": "Upcoming lot",
       "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/63509536"
     },
     {
@@ -475,6 +527,7 @@
       "currentBid": null,
       "auction": "Mon. Sep 21, 2026 12:00 PM CDT",
       "titleDocument": "KS - Cert Of Title-salvage",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-21",
       "currentSource": "https://www.copart.com/lot/85613475"
     },
@@ -484,6 +537,7 @@
       "currentBid": null,
       "auction": "Wed. Sep 16, 2026 12:00 PM CDT",
       "titleDocument": "TX - Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-21",
       "currentSource": "https://www.copart.com/lot/42068106"
     },
@@ -493,7 +547,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/75971465"
     },
     {
@@ -502,7 +557,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "AR - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/62295176"
     },
     {
@@ -511,7 +567,8 @@
       "currentBid": null,
       "auction": "Upcoming lot",
       "titleDocument": "MO - Duplicate Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/48953663"
     },
     {
@@ -520,7 +577,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/67092526"
     },
     {
@@ -529,6 +587,7 @@
       "currentBid": null,
       "auction": "Wed. Sep 16, 2026 12:00 PM CDT",
       "titleDocument": "KS - Cert Of Title-salvage",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-21",
       "currentSource": "https://www.copart.com/lot/55442176"
     },
@@ -538,16 +597,18 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/68544326"
     },
     {
       "id": "65487846",
-      "availability": "ended",
+      "availability": "sold",
       "currentBid": null,
       "auction": "Mon. Sep 21, 2026 12:00 PM CDT",
       "titleDocument": "VA - Certificate Of Title",
-      "currentCheckedAt": "2026-09-21",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/65487846"
     },
     {
@@ -556,7 +617,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/65709846"
     },
     {
@@ -565,6 +627,7 @@
       "currentBid": null,
       "auction": "Thu. Sep 17, 2026 12:00 PM CDT",
       "titleDocument": "KS - Cert Of Title-salvage",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-21",
       "currentSource": "https://www.copart.com/lot/65120686"
     },
@@ -574,16 +637,18 @@
       "currentBid": null,
       "auction": "Mon. Sep 14, 2026 12:00 PM CDT",
       "titleDocument": "AR - Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/67291736"
     },
     {
       "id": "67201176",
-      "availability": "future",
-      "currentBid": 0,
-      "auction": "Future",
+      "availability": "scheduled",
+      "currentBid": 450,
+      "auction": "Thu. Sep 24, 2026 12:00 PM CDT",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/67201176"
     },
     {
@@ -592,6 +657,7 @@
       "currentBid": null,
       "auction": "Wed. Sep 16, 2026 12:00 PM CDT",
       "titleDocument": "MO - Certificate Of Title Title Absent",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-21",
       "currentSource": "https://www.copart.com/lot/64769036"
     },
@@ -601,6 +667,7 @@
       "currentBid": null,
       "auction": "Sat. Sep 12, 2026 10:27 AM CDT",
       "titleDocument": "MO - Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/67879236"
     },
@@ -610,16 +677,18 @@
       "currentBid": null,
       "auction": "Wed. Sep 16, 2026 08:41 AM CDT",
       "titleDocument": "MO - Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/67849116"
     },
     {
       "id": "64587966",
-      "availability": "ended",
+      "availability": "sold",
       "currentBid": null,
       "auction": "Mon. Sep 21, 2026 12:00 PM CDT",
       "titleDocument": "WV - Certificate Of Title",
-      "currentCheckedAt": "2026-09-21",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/64587966"
     },
     {
@@ -628,43 +697,48 @@
       "currentBid": null,
       "auction": "Tue. Sep 15, 2026 12:00 PM CDT",
       "titleDocument": "MO - Cert Of Title-repossessed Title Absent",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/62869076"
     },
     {
       "id": "64200676",
-      "availability": "scheduled",
-      "currentBid": 175,
+      "availability": "sold",
+      "currentBid": null,
       "auction": "Tue. Sep 22, 2026 12:00 PM CDT",
       "titleDocument": "MT - Certificate Of Title",
-      "currentCheckedAt": "2026-09-21",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/64200676"
     },
     {
       "id": "59114686",
       "availability": "future",
-      "currentBid": 0,
+      "currentBid": 175,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/59114686"
     },
     {
       "id": "62966806",
       "availability": "future",
-      "currentBid": 0,
+      "currentBid": 550,
       "auction": "Future",
-      "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "titleDocument": "MO - Salvage Certificate Of Title",
+      "needsBroker": true,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/62966806"
     },
     {
       "id": "67126866",
-      "availability": "future",
-      "currentBid": 250,
-      "auction": "Future",
+      "availability": "scheduled",
+      "currentBid": 2800,
+      "auction": "Wed. Sep 23, 2026 12:00 PM CDT",
       "titleDocument": "LA - Cert Of Title-hail Damaged",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/67126866"
     },
     {
@@ -673,6 +747,7 @@
       "currentBid": null,
       "auction": "Tue. Sep 15, 2026 11:00 AM CDT",
       "titleDocument": "MO - Certificate Of Title - Clean Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/60687656"
     },
@@ -682,16 +757,18 @@
       "currentBid": null,
       "auction": "Upcoming lot",
       "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/85972145"
     },
     {
       "id": "58358206",
       "availability": "scheduled",
-      "currentBid": 300,
-      "auction": "Tue. Sep 22, 2026 12:00 PM CDT",
+      "currentBid": 0,
+      "auction": "Tue. Sep 29, 2026 12:00 PM CDT",
       "titleDocument": "IL - Certificate Of Title",
-      "currentCheckedAt": "2026-09-21",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/58358206"
     },
     {
@@ -700,6 +777,7 @@
       "currentBid": null,
       "auction": "Mon. Sep 14, 2026 11:00 AM CDT",
       "titleDocument": "MO - Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/66851026"
     },
@@ -709,6 +787,7 @@
       "currentBid": null,
       "auction": "Mon. Sep 14, 2026 12:00 PM CDT",
       "titleDocument": "FL - Certificate Of Title",
+      "needsBroker": null,
       "currentCheckedAt": "2026-09-16",
       "currentSource": "https://www.copart.com/lot/67122796"
     },
@@ -718,7 +797,8 @@
       "currentBid": null,
       "auction": "Upcoming lot",
       "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-16",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/61161096"
     },
     {
@@ -727,7 +807,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/68787566"
     },
     {
@@ -736,7 +817,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/68542176"
     },
     {
@@ -745,7 +827,8 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/68671526"
     },
     {
@@ -754,7 +837,8 @@
       "currentBid": null,
       "auction": "Upcoming lot",
       "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/61899356"
     },
     {
@@ -763,7 +847,8 @@
       "currentBid": null,
       "auction": "Upcoming lot",
       "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/60613726"
     },
     {
@@ -772,7 +857,8 @@
       "currentBid": null,
       "auction": "Upcoming lot",
       "titleDocument": "MO - Certificate Of Title",
-      "currentCheckedAt": "2026-09-20",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/60467806"
     },
     {
@@ -781,8 +867,39 @@
       "currentBid": 0,
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
-      "currentCheckedAt": "2026-09-21",
+      "needsBroker": null,
+      "currentCheckedAt": "2026-09-23",
       "currentSource": "https://www.copart.com/lot/50791176"
+    },
+    {
+      "id": "69125816",
+      "availability": "future",
+      "currentBid": 0,
+      "auction": "Future",
+      "titleDocument": "MO - Salvage Certificate Of Title",
+      "needsBroker": false,
+      "currentCheckedAt": "2026-09-23",
+      "currentSource": "https://www.copart.com/lot/69125816"
+    },
+    {
+      "id": "67610536",
+      "availability": "scheduled",
+      "currentBid": 0,
+      "auction": "Fri. Sep 25, 2026 12:00 PM CDT",
+      "titleDocument": "MO - Certificate Of Title",
+      "needsBroker": false,
+      "currentCheckedAt": "2026-09-23",
+      "currentSource": "https://www.copart.com/lot/67610536"
+    },
+    {
+      "id": "66032736",
+      "availability": "scheduled",
+      "currentBid": 150,
+      "auction": "Thu. Sep 24, 2026 12:00 PM CDT",
+      "titleDocument": "KS - Cert Of Title-salvage",
+      "needsBroker": false,
+      "currentCheckedAt": "2026-09-23",
+      "currentSource": "https://www.copart.com/lot/66032736"
     }
   ]
 }
