@@ -75,6 +75,44 @@ window.MarketCompare = (() => {
     model.addEventListener('change', render);
     title.addEventListener('change', render);
     render();
+    mountRank(cars);
+  }
+
+  /* One 100-point scale for Copart Kansas City lots (price = similar-auction average) and FB listings (price = asking). */
+  const AVAIL = {live:'경매 진행', scheduled:'경매 예정', future:'Future · 날짜 미정', upcoming:'Upcoming · 입찰 전', sold:'판매 완료', ended:'종료 · 결과 미확인'};
+  const FB_DOC = {clean:20, unknown:12, rebuilt:10, salvage:6};
+  const copartDoc = damage => damage.includes('+') ? 3 : /mechanical/i.test(damage) ? 2 : /front|rear|side|roof|under/i.test(damage) ? 5 : 8;
+  const scale = (v, best, worst, pts) => Math.round(Math.max(0, Math.min(1, (v - worst) / (best - worst))) * pts * 10) / 10;
+
+  function mountRank(cars) {
+    const out = document.querySelector('#market-rank');
+    if (!out) return;
+    const copart = cars.filter(c => c.yard === 'KC').map(c => ({
+      source:'Copart KC', id:c.id, vehicle:c.vehicle, url:c.url, year:+c.vehicle.slice(0, 4), miles:c.miles,
+      price:c.comparisonAverage == null ? null : Math.round(c.comparisonAverage), count:c.comparisonAverageCount, total:c.roundedTotal,
+      doc:copartDoc(c.damage), docText:`KS Salvage · ${c.damage}`, status:AVAIL[c.availability] || c.availability, closed:['sold', 'ended'].includes(c.availability)}));
+    const fb = d.listings.map(x => ({
+      source:'FB', id:x.id, vehicle:x.vehicle, url:`https://www.facebook.com/marketplace/item/${x.id}/`, year:x.year, miles:x.miles, price:x.price,
+      doc:x.avoid ? 0 : FB_DOC[x.title], docText:[TITLE[x.title], x.note].filter(Boolean).join(' · '), status:`${x.days ? x.days + '일 전' : '오늘'} 게시`, closed:false, avoid:x.avoid}));
+    const ranked = [...copart, ...fb].filter(e => e.price != null);
+    for (const e of ranked) {
+      e.parts = [scale(e.price, 500, 10000, 35), scale(e.year, 2024, 2008, 20), scale(e.miles, 30000, 230000, 25), e.doc];
+      e.score = Math.round(e.parts.reduce((a, b) => a + b, 0) * 10) / 10;
+    }
+    ranked.sort((a, b) => b.score - a.score || a.price - b.price).forEach((e, i) => { e.rank = i + 1; });
+    const missing = copart.filter(e => e.price == null);
+    const top = ranked.slice(0, 20);
+    document.querySelector('#rank-summary').textContent = `Copart KC ${copart.length}대(유사 경매 평균 있음 ${copart.length - missing.length}대) + FB ${fb.length}건 · 상위 20위 중 Copart ${top.filter(e => e.source !== 'FB').length}대, FB ${top.filter(e => e.source === 'FB').length}건`;
+    const source = document.querySelector('#rank-source'), open = document.querySelector('#rank-open');
+    const row = e => `<tr><td><b>${e.rank}</b></td><td><a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.vehicle)} ↗</a>${e.avoid ? ' <b class="market-tag warn">주의</b>' : ''}<br><small>${esc(e.source)}${e.source === 'FB' ? '' : ' #' + esc(e.id)} · ${esc(e.status)}</small></td><td><b>${cash(e.price)}</b><br><small>${e.source === 'FB' ? '호가' : `유사 경매 평균 ${e.count}건 · 수수료 제외<br>조건부 총액 ${cash(e.total)} (순위 미반영)`}</small></td><td>${miles(e.miles)}</td><td>${esc(e.docText)}</td><td><b>${e.score}</b><br><small>가격 ${e.parts[0]} · 연식 ${e.parts[1]} · 주행 ${e.parts[2]} · 서류 ${e.parts[3]}</small></td></tr>`;
+    const render = () => {
+      const list = ranked.filter(e => (source.value === 'all' || (source.value === 'fb') === (e.source === 'FB')) && !(open.value === 'open' && e.closed));
+      document.querySelector('#rank-count').textContent = `${list.length}대 표시`;
+      out.innerHTML = `<div class="market-scroll"><table><thead><tr>${['순위', '차량', '비교 가격', '주행거리', '서류·손상', '점수 /100'].map(h => `<th scope="col">${h}</th>`).join('')}</tr></thead><tbody>${list.map(row).join('')}</tbody></table></div>${missing.length ? `<p class="comps-fine">유사 경매 기록이 없어 순위에서 뺀 Copart KC: ${missing.map(e => esc(e.vehicle) + ' #' + esc(e.id)).join(', ')}</p>` : ''}`;
+    };
+    source.addEventListener('change', render);
+    open.addEventListener('change', render);
+    render();
   }
 
   const ready = fetch('marketplace-2026-09-23.json', {cache:'no-store'})

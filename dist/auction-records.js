@@ -36,6 +36,6 @@ window.AuctionRecords = (() => {
       state.addEventListener('change',refreshCities);city.addEventListener('change',refresh);refreshCities();
     });
   }
-  const ready=fetch('auction-comps.json?v=20260917-rogue', {cache:'no-store'}).then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(d=>{data=d;mount();return d}).catch(()=>{document.querySelectorAll('.auction-slot').forEach(x=>{x.textContent=words[x.dataset.lang==='es'?'es':'ko'].error});return null;});
+  const ready=fetch('auction-comps.json?v=20260923-kc', {cache:'no-store'}).then(r=>{if(!r.ok)throw Error(r.status);return r.json()}).then(d=>{data=d;mount();return d}).catch(()=>{document.querySelectorAll('.auction-slot').forEach(x=>{x.textContent=words[x.dataset.lang==='es'?'es':'ko'].error});return null;});
   return {ready,mount};
 })();
