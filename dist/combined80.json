@@ -4130,6 +4130,13 @@
       "availability": "scheduled",
       "auction": "Thu. Sep 17, 2026 12:00 PM CDT",
       "currentCheckedAt": "2026-09-16"
+    },
+    "finalBid": {
+      "price": 3950,
+      "date": "2026-09-17",
+      "reserveMet": "No",
+      "source": "https://finalbid.vin/en/mitsubishi/eclipse-cross/2020/copart-62420466-JA4AT3AA6LZ035947",
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -4998,7 +5005,14 @@
     "comparisonRecords": 4,
     "comparisonCheckedAt": "2026-09-23",
     "comparisonAverage": 587.5,
-    "comparisonAverageCount": 4
+    "comparisonAverageCount": 4,
+    "finalBid": {
+      "price": 850,
+      "date": "2026-09-15",
+      "reserveMet": "Yes",
+      "source": "https://finalbid.vin/en/mazda/3/2012/copart-65742956-JM1BL1VF0C1503545",
+      "checkedAt": "2026-09-23"
+    }
   },
   {
     "rank": 30,
@@ -6886,7 +6900,14 @@
     "comparisonRecords": 4,
     "comparisonCheckedAt": "2026-09-23",
     "comparisonAverage": 668.75,
-    "comparisonAverageCount": 4
+    "comparisonAverageCount": 4,
+    "finalBid": {
+      "price": 1000,
+      "date": "2026-09-15",
+      "reserveMet": "No",
+      "source": "https://finalbid.vin/en/ford/fusion/2016/copart-64586406-3FA6P0G76GR231039",
+      "checkedAt": "2026-09-23"
+    }
   },
   {
     "id": "63031466",
@@ -10188,6 +10209,13 @@
       "availability": "scheduled",
       "auction": "Thu. Sep 17, 2026 12:00 PM CDT",
       "currentCheckedAt": "2026-09-16"
+    },
+    "finalBid": {
+      "price": 7600,
+      "date": "2026-09-17",
+      "reserveMet": "Yes",
+      "source": "https://finalbid.vin/en/ford/escape/2020/copart-65120686-1FMCU0BZ2LUB78790",
+      "checkedAt": "2026-09-23"
     }
   },
   {
