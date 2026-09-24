@@ -13664,17 +13664,17 @@
       "miles": 220000,
       "city": "Ottawa, KS",
       "days": 47,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2859276854445602",
       "year": 2011,
       "model": "BMW 3 Series",
-      "vehicle": "2011 BMW 3 Series series 328i",
+      "vehicle": "2011 BMW 3 Series 328i",
       "price": 1200,
       "miles": 165000,
       "city": "Kansas City, MO",
@@ -13683,7 +13683,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "887159170742577",
@@ -13691,14 +13691,14 @@
       "model": "Chevrolet Malibu",
       "vehicle": "2010 Chevrolet Malibu LT",
       "price": 1300,
-      "miles": 187000,
+      "miles": 187462,
       "city": "Kansas City, MO",
       "days": 49,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1304133128461854",
@@ -13709,26 +13709,11 @@
       "miles": 134000,
       "city": "Ottawa, KS",
       "days": 51,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회"
-    },
-    {
-      "id": "1372294068200440",
-      "year": 2009,
-      "model": "Kia Borrego",
-      "vehicle": "2009 Kia Borrego LX",
-      "price": 1000,
-      "miles": 271000,
-      "city": "Overland Park, KS",
-      "days": 59,
-      "title": "unknown",
-      "pick": false,
-      "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 수리 필요 기재"
     },
     {
       "id": "1556009269263090",
@@ -13736,14 +13721,14 @@
       "model": "Chevrolet Impala",
       "vehicle": "2009 Chevrolet Impala LTZ",
       "price": 1700,
-      "miles": 224000,
+      "miles": 224569,
       "city": "Overland Park, KS",
       "days": 63,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1578019247236217",
@@ -13754,26 +13739,11 @@
       "miles": 182000,
       "city": "Odessa, MO",
       "days": 63,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회"
-    },
-    {
-      "id": "2531813317248122",
-      "year": 2009,
-      "model": "Hyundai Sonata",
-      "vehicle": "2009 Hyundai Sonata",
-      "price": 1100,
-      "miles": 247000,
-      "city": "Olathe, KS",
-      "days": 71,
-      "title": "unknown",
-      "pick": false,
-      "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "note": "운행·시동 불가 기재"
     },
     {
       "id": "1360854699309638",
@@ -13784,11 +13754,11 @@
       "miles": 199000,
       "city": "Mission, KS",
       "days": 74,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "AS IS 판매"
     },
     {
       "id": "985794324447175",
@@ -13796,14 +13766,14 @@
       "model": "Nissan Murano",
       "vehicle": "2014 Nissan Murano AWD",
       "price": 1000,
-      "miles": 208000,
+      "miles": 208355,
       "city": "Raytown, MO",
       "days": 82,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1020419160401409",
@@ -13811,14 +13781,14 @@
       "model": "Ford Expedition",
       "vehicle": "2008 Ford Expedition XLT",
       "price": 1500,
-      "miles": 260000,
+      "miles": 260789,
       "city": "Kansas City, KS",
       "days": 86,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재 · 엔진 소음 기재"
     },
     {
       "id": "27331653953143129",
@@ -13833,7 +13803,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2043869333182837",
@@ -13844,11 +13814,11 @@
       "miles": 266000,
       "city": "Lee's Summit, MO",
       "days": 100,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "978742671688140",
@@ -13856,14 +13826,14 @@
       "model": "Ford Edge",
       "vehicle": "2009 Ford Edge SE",
       "price": 1200,
-      "miles": 200000,
+      "miles": 200320,
       "city": "Excelsior Springs, MO",
       "days": 127,
       "title": "unknown",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "헤드개스킷 문제 기재"
     },
     {
       "id": "1302854661804137",
@@ -13878,22 +13848,22 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재"
     },
     {
       "id": "3474374966046049",
       "year": 2013,
       "model": "Ford F-150",
-      "vehicle": "2013 Ford F-150",
+      "vehicle": "2013 Ford F-150 XLT",
       "price": 1500,
-      "miles": 214000,
+      "miles": 214543,
       "city": "Kansas City, KS",
       "days": 139,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "변속기 이상 기재"
     },
     {
       "id": "1919899191993876",
@@ -13901,14 +13871,14 @@
       "model": "Ford Focus",
       "vehicle": "2014 Ford Focus Titanium",
       "price": 1100,
-      "miles": 163000,
+      "miles": 163317,
       "city": "Independence, MO",
       "days": 157,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "타이틀 없음·분실 기재"
     },
     {
       "id": "2650411335418680",
@@ -13923,22 +13893,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
-    },
-    {
-      "id": "1116601640701019",
-      "year": 2008,
-      "model": "Chevrolet Malibu",
-      "vehicle": "2008 Chevrolet Malibu 1LT",
-      "price": 850,
-      "miles": 120000,
-      "city": "Lansing, KS",
-      "days": 5,
-      "title": "unknown",
-      "pick": false,
-      "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1050090298025219",
@@ -13949,11 +13904,11 @@
       "miles": 250000,
       "city": "Kansas City, KS",
       "days": 10,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1379771256957537",
@@ -13961,29 +13916,14 @@
       "model": "Jeep Liberty",
       "vehicle": "2011 Jeep Liberty",
       "price": 950,
-      "miles": 140000,
+      "miles": 140752,
       "city": "Raytown, MO",
       "days": 26,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
-    },
-    {
-      "id": "1021928504216200",
-      "year": 2012,
-      "model": "Chevrolet Traverse",
-      "vehicle": "2012 Chevrolet Traverse LT",
-      "price": 950,
-      "miles": 111000,
-      "city": "Kansas City, KS",
-      "days": 29,
-      "title": "unknown",
-      "pick": false,
-      "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "note": "AS IS 판매"
     },
     {
       "id": "1098308316206082",
@@ -13991,14 +13931,14 @@
       "model": "Chrysler Sebring",
       "vehicle": "2010 Chrysler Sebring LX",
       "price": 950,
-      "miles": 166000,
+      "miles": 166964,
       "city": "Kansas City, MO",
       "days": 31,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "888181120687702",
@@ -14013,22 +13953,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
-    },
-    {
-      "id": "1536309037969257",
-      "year": 2008,
-      "model": "Chrysler Sebring",
-      "vehicle": "2008 Chrysler Sebring",
-      "price": 800,
-      "miles": 220000,
-      "city": "Overland Park, KS",
-      "days": 55,
-      "title": "unknown",
-      "pick": false,
-      "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2235682767165174",
@@ -14039,41 +13964,26 @@
       "miles": 230000,
       "city": "Kansas City, MO",
       "days": 59,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
-    },
-    {
-      "id": "972079502526267",
-      "year": 2013,
-      "model": "Chrysler 200",
-      "vehicle": "2013 Chrysler 200",
-      "price": 800,
-      "miles": 195000,
-      "city": "Kansas City, KS",
-      "days": 61,
-      "title": "unknown",
-      "pick": false,
-      "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2110678396552623",
       "year": 2008,
       "model": "Chrysler Town & Country",
-      "vehicle": "2008 Chrysler Town & Country & county (overheats) Town & country",
+      "vehicle": "2008 Chrysler Town & Country Town & country",
       "price": 950,
-      "miles": 175000,
+      "miles": 175166,
       "city": "Lee's Summit, MO",
       "days": 92,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": true,
-      "note": "상세 미조회"
+      "note": "과열 기재"
     },
     {
       "id": "1645299583592552",
@@ -14084,11 +13994,11 @@
       "miles": 198000,
       "city": "Kansas City, MO",
       "days": 4,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1627146005516730",
@@ -14103,22 +14013,22 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "변속기 이상 기재"
     },
     {
       "id": "1054318814267693",
       "year": 2008,
       "model": "Chrysler 300",
-      "vehicle": "2008 Chrysler 300 Motown",
+      "vehicle": "2008 Chrysler 300 300 Motown",
       "price": 1700,
       "miles": null,
       "city": "Kansas City, KS",
       "days": 16,
       "title": "unknown",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회 · 주행거리 표기 이상(원문 19,000 mi)"
+      "note": "엔진 수리 필요 기재 · 주행거리 표기 이상(원문 19,000 mi)"
     },
     {
       "id": "3177595035763674",
@@ -14129,11 +14039,11 @@
       "miles": 179000,
       "city": "Kansas City, MO",
       "days": 26,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2060938607869576",
@@ -14148,7 +14058,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2977366162601581",
@@ -14156,14 +14066,14 @@
       "model": "Chevrolet Malibu",
       "vehicle": "2009 Chevrolet Malibu LS",
       "price": 1100,
-      "miles": 125000,
+      "miles": 125674,
       "city": "Oak Grove, MO",
       "days": 33,
       "title": "unknown",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "헤드개스킷 문제 기재 · 누유·누수 기재"
     },
     {
       "id": "1443343310937737",
@@ -14171,14 +14081,14 @@
       "model": "Mitsubishi Galant",
       "vehicle": "2010 Mitsubishi Galant ES",
       "price": 1250,
-      "miles": 194000,
+      "miles": 194195,
       "city": "Blue Springs, MO",
       "days": 44,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1706492110633986",
@@ -14193,22 +14103,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
-    },
-    {
-      "id": "1228728016985713",
-      "year": 2013,
-      "model": "Nissan Murano",
-      "vehicle": "2013 Nissan Murano S",
-      "price": 1300,
-      "miles": null,
-      "city": "Kansas City, KS",
-      "days": 70,
-      "title": "unknown",
-      "pick": false,
-      "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회 · 주행거리 표기 이상(원문 15,000 mi)"
+      "note": ""
     },
     {
       "id": "954301137471600",
@@ -14216,14 +14111,14 @@
       "model": "GMC Acadia",
       "vehicle": "2012 GMC Acadia SLE",
       "price": 1200,
-      "miles": 202000,
+      "miles": 202358,
       "city": "Kansas City, MO",
       "days": 148,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "930679949769428",
@@ -14234,11 +14129,11 @@
       "miles": 150000,
       "city": "Independence, MO",
       "days": 149,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1621316289338553",
@@ -14253,7 +14148,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1127305819859015",
@@ -14264,11 +14159,11 @@
       "miles": 293000,
       "city": "Blue Springs, MO",
       "days": 1,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2004863533466458",
@@ -14283,7 +14178,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4659911954239023",
@@ -14291,14 +14186,14 @@
       "model": "Jeep Liberty",
       "vehicle": "2012 Jeep Liberty",
       "price": 2500,
-      "miles": 183000,
+      "miles": 183458,
       "city": "Kansas City, MO",
       "days": 1,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1854663802179606",
@@ -14313,7 +14208,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1060696966761244",
@@ -14328,7 +14223,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1821697969268905",
@@ -14343,7 +14238,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회 · 주행거리 표기 이상(원문 1,700 mi)"
+      "note": "주행거리 표기 이상(원문 1,757 mi)"
     },
     {
       "id": "1418120223630687",
@@ -14351,14 +14246,14 @@
       "model": "Ford Escape",
       "vehicle": "2011 Ford Escape XLT",
       "price": 2900,
-      "miles": 167000,
+      "miles": 167800,
       "city": "Kansas City, MO",
       "days": 2,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2358858904850347",
@@ -14369,11 +14264,11 @@
       "miles": 270000,
       "city": "Grandview, MO",
       "days": 2,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1519801250165185",
@@ -14384,11 +14279,11 @@
       "miles": 247000,
       "city": "Kansas City, MO",
       "days": 3,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1795428194827145",
@@ -14396,14 +14291,14 @@
       "model": "Toyota Corolla",
       "vehicle": "2013 Toyota Corolla LE",
       "price": 2000,
-      "miles": 140000,
+      "miles": 140121,
       "city": "Kansas City, KS",
       "days": 3,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1569663881575044",
@@ -14414,26 +14309,26 @@
       "miles": 245000,
       "city": "De Soto, KS",
       "days": 3,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1125913079789094",
       "year": 2008,
       "model": "Chevrolet Malibu",
-      "vehicle": "2008 Chevrolet Malibu (classic) LS",
+      "vehicle": "2008 Chevrolet Malibu LS",
       "price": 2000,
-      "miles": 244000,
+      "miles": 244242,
       "city": "Blue Springs, MO",
       "days": 3,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "3462875297217981",
@@ -14441,14 +14336,14 @@
       "model": "Kia Soul",
       "vehicle": "2011 Kia Soul +",
       "price": 2800,
-      "miles": 226000,
+      "miles": 226872,
       "city": "Kansas City, KS",
       "days": 3,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1647821373476240",
@@ -14459,11 +14354,11 @@
       "miles": 235000,
       "city": "Kansas City, MO",
       "days": 4,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 소음 기재"
     },
     {
       "id": "1437499314899056",
@@ -14474,11 +14369,11 @@
       "miles": 158000,
       "city": "Kansas City, MO",
       "days": 5,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2069369833945747",
@@ -14489,11 +14384,11 @@
       "miles": 192000,
       "city": "Lee's Summit, MO",
       "days": 6,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2978998835766707",
@@ -14508,7 +14403,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1422178752951218",
@@ -14516,14 +14411,14 @@
       "model": "Volkswagen Jetta",
       "vehicle": "2012 Volkswagen Jetta Black",
       "price": 2100,
-      "miles": 198000,
+      "miles": 198999,
       "city": "Kansas City, MO",
       "days": 8,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1791313631906278",
@@ -14531,14 +14426,14 @@
       "model": "Nissan Rogue",
       "vehicle": "2013 Nissan Rogue sv awd",
       "price": 2600,
-      "miles": 151000,
+      "miles": 151500,
       "city": "Kansas City, MO",
       "days": 9,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재 · AS IS 판매"
     },
     {
       "id": "3502492733244131",
@@ -14549,11 +14444,11 @@
       "miles": 118000,
       "city": "Independence, MO",
       "days": 9,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1099578485793041",
@@ -14564,11 +14459,11 @@
       "miles": 195000,
       "city": "Lee's Summit, MO",
       "days": 9,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1752562399368626",
@@ -14583,7 +14478,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "설명 없음"
     },
     {
       "id": "1704228491702842",
@@ -14591,14 +14486,14 @@
       "model": "Ford Escape",
       "vehicle": "2008 Ford Escape XLT",
       "price": 2500,
-      "miles": 178000,
+      "miles": 178258,
       "city": "La Cygne, KS",
       "days": 11,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "AS IS 판매"
     },
     {
       "id": "3516136109233906",
@@ -14609,11 +14504,11 @@
       "miles": 222000,
       "city": "Kansas City, MO",
       "days": 12,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2869420333415012",
@@ -14621,14 +14516,14 @@
       "model": "Ford Escape",
       "vehicle": "2013 Ford Escape SE",
       "price": 2500,
-      "miles": 213000,
+      "miles": 213930,
       "city": "Independence, MO",
       "days": 12,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1482720700360978",
@@ -14636,14 +14531,14 @@
       "model": "Dodge Avenger",
       "vehicle": "2012 Dodge Avenger SXT",
       "price": 2500,
-      "miles": 148000,
+      "miles": 148246,
       "city": "Blue Springs, MO",
       "days": 13,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2135226690754831",
@@ -14651,14 +14546,14 @@
       "model": "Toyota Matrix",
       "vehicle": "2009 Toyota Matrix",
       "price": 2000,
-      "miles": 175000,
+      "miles": 175950,
       "city": "Kansas City, MO",
       "days": 14,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "939869061930905",
@@ -14673,7 +14568,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2115770292372632",
@@ -14684,11 +14579,11 @@
       "miles": 300000,
       "city": "Independence, MO",
       "days": 14,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1393893602168705",
@@ -14699,11 +14594,11 @@
       "miles": 133000,
       "city": "Gardner, KS",
       "days": 15,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1650605659996106",
@@ -14718,7 +14613,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1615925090066227",
@@ -14726,14 +14621,14 @@
       "model": "Nissan Pathfinder",
       "vehicle": "2013 Nissan Pathfinder Platinum",
       "price": 2500,
-      "miles": 190000,
+      "miles": 190957,
       "city": "Independence, MO",
       "days": 16,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "수리용 차량"
     },
     {
       "id": "1068721882564142",
@@ -14741,14 +14636,14 @@
       "model": "Chevrolet Malibu",
       "vehicle": "2011 Chevrolet Malibu lt",
       "price": 2000,
-      "miles": 152000,
+      "miles": 152131,
       "city": "Olathe, KS",
       "days": 8,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "수리용 차량 · 엔진 경고등 기재"
     },
     {
       "id": "1695516611523354",
@@ -14756,14 +14651,14 @@
       "model": "Nissan Altima",
       "vehicle": "2014 Nissan Altima S",
       "price": 2000,
-      "miles": 145000,
+      "miles": 145123,
       "city": "Kansas City, MO",
       "days": 17,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4032339320404137",
@@ -14778,7 +14673,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1609919630824858",
@@ -14789,11 +14684,11 @@
       "miles": 159000,
       "city": "Kansas City, KS",
       "days": 18,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1404434088520563",
@@ -14804,11 +14699,11 @@
       "miles": 180000,
       "city": "Kansas City, KS",
       "days": 18,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1688643425542050",
@@ -14816,14 +14711,14 @@
       "model": "Nissan Altima",
       "vehicle": "2010 Nissan Altima 2.5 SL",
       "price": 2999,
-      "miles": 219000,
+      "miles": 219949,
       "city": "Grain Valley, MO",
       "days": 19,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1062805033218144",
@@ -14838,7 +14733,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1540453337369262",
@@ -14853,7 +14748,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1058491120435754",
@@ -14864,11 +14759,11 @@
       "miles": 200000,
       "city": "Kansas City, MO",
       "days": 22,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "AS IS 판매"
     },
     {
       "id": "1051234594489831",
@@ -14879,11 +14774,11 @@
       "miles": 140000,
       "city": "Belton, MO",
       "days": 22,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1051260284489205",
@@ -14894,11 +14789,11 @@
       "miles": 135000,
       "city": "Overland Park, KS",
       "days": 22,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "변속기 이상 기재 · 에어컨 고장 기재"
     },
     {
       "id": "2306213273245959",
@@ -14909,11 +14804,11 @@
       "miles": 239000,
       "city": "Belton, MO",
       "days": 24,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "누유·누수 기재 · AS IS 판매"
     },
     {
       "id": "1746971426504432",
@@ -14921,14 +14816,14 @@
       "model": "Chevrolet Volt",
       "vehicle": "2012 Chevrolet Volt LT",
       "price": 2850,
-      "miles": 244000,
+      "miles": 244614,
       "city": "Raytown, MO",
       "days": 24,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1370460328623949",
@@ -14936,14 +14831,14 @@
       "model": "Chevrolet Cruze",
       "vehicle": "2013 Chevrolet Cruze LT",
       "price": 2000,
-      "miles": 199000,
+      "miles": 199500,
       "city": "Kansas City, MO",
       "days": 25,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1361763369450931",
@@ -14954,11 +14849,11 @@
       "miles": 250000,
       "city": "Olathe, KS",
       "days": 25,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1743723623513946",
@@ -14973,7 +14868,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2200967800481670",
@@ -14988,13 +14883,13 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1616146263286084",
       "year": 2008,
       "model": "Dodge Ram 1500",
-      "vehicle": "2008 Dodge Ram 1500 1500",
+      "vehicle": "2008 Dodge Ram 1500 SLT",
       "price": 2500,
       "miles": 215000,
       "city": "Independence, MO",
@@ -15003,7 +14898,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1842095253622739",
@@ -15011,14 +14906,14 @@
       "model": "Dodge Journey",
       "vehicle": "2013 Dodge Journey sxt",
       "price": 2524,
-      "miles": 186000,
+      "miles": 186815,
       "city": "Overland Park, KS",
       "days": 30,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2388411331964523",
@@ -15026,14 +14921,14 @@
       "model": "Chrysler Sebring",
       "vehicle": "2008 Chrysler Sebring LX",
       "price": 2700,
-      "miles": 205000,
+      "miles": 205338,
       "city": "Lawrence, KS",
       "days": 31,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1279919370821152",
@@ -15048,7 +14943,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1036016729315390",
@@ -15056,14 +14951,14 @@
       "model": "Scion xB",
       "vehicle": "2010 Scion xB",
       "price": 2500,
-      "miles": 191000,
+      "miles": 191656,
       "city": "Lee's Summit, MO",
       "days": 20,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4112334148902471",
@@ -15074,11 +14969,11 @@
       "miles": 258000,
       "city": "Lenexa, KS",
       "days": 36,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1479148004233565",
@@ -15089,26 +14984,26 @@
       "miles": 242000,
       "city": "Kansas City, MO",
       "days": 37,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1384140960556206",
       "year": 2015,
       "model": "Chevrolet Malibu",
-      "vehicle": "2015 Chevrolet Malibu limited LT",
+      "vehicle": "2015 Chevrolet Malibu LT",
       "price": 2500,
       "miles": 163000,
       "city": "Overland Park, KS",
       "days": 38,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "AS IS 판매"
     },
     {
       "id": "888944900648617",
@@ -15116,14 +15011,14 @@
       "model": "Hyundai Sonata",
       "vehicle": "2010 Hyundai Sonata GLS",
       "price": 2750,
-      "miles": 220000,
+      "miles": 220822,
       "city": "Kansas City, MO",
       "days": 39,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1485566316481763",
@@ -15138,7 +15033,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "변속기 이상 기재"
     },
     {
       "id": "1431541165701923",
@@ -15151,9 +15046,9 @@
       "days": 42,
       "title": "unknown",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "타이틀 없음·분실 기재"
     },
     {
       "id": "2354761388674489",
@@ -15168,7 +15063,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "변속기 이상 기재"
     },
     {
       "id": "1715321952919828",
@@ -15179,11 +15074,11 @@
       "miles": 201000,
       "city": "Kansas City, MO",
       "days": 43,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1865271414434351",
@@ -15191,14 +15086,14 @@
       "model": "Nissan Altima",
       "vehicle": "2011 Nissan Altima 2.5 S",
       "price": 2800,
-      "miles": 186000,
+      "miles": 186881,
       "city": "Kansas City, MO",
       "days": 44,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2233991884082656",
@@ -15206,14 +15101,14 @@
       "model": "Dodge Journey",
       "vehicle": "2014 Dodge Journey Limited",
       "price": 2500,
-      "miles": 245000,
+      "miles": 245235,
       "city": "Raytown, MO",
       "days": 47,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "890385220383809",
@@ -15221,14 +15116,14 @@
       "model": "Jeep Patriot",
       "vehicle": "2014 Jeep Patriot Sport SE",
       "price": 2700,
-      "miles": 235000,
+      "miles": 235235,
       "city": "Kansas City, MO",
       "days": 48,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1756409082032639",
@@ -15239,11 +15134,11 @@
       "miles": 150000,
       "city": "Oak Grove, MO",
       "days": 55,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2019579841999630",
@@ -15258,7 +15153,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1767137390977026",
@@ -15266,14 +15161,14 @@
       "model": "Nissan Altima",
       "vehicle": "2011 Nissan Altima 2.5 SL",
       "price": 2000,
-      "miles": 242000,
+      "miles": 242674,
       "city": "Raymore, MO",
       "days": 58,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1614547973573108",
@@ -15284,17 +15179,17 @@
       "miles": 100000,
       "city": "Blue Springs, MO",
       "days": 58,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "누유·누수 기재"
     },
     {
       "id": "27879252515020458",
       "year": 2008,
       "model": "BMW 5 Series",
-      "vehicle": "2008 BMW 5 Series series 535xi",
+      "vehicle": "2008 BMW 5 Series 535xi",
       "price": 2500,
       "miles": 214000,
       "city": "Overland Park, KS",
@@ -15303,7 +15198,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "914003274345419",
@@ -15316,9 +15211,9 @@
       "days": 67,
       "title": "unknown",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "타이틀 없음·분실 기재"
     },
     {
       "id": "795302683610033",
@@ -15333,7 +15228,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1487999536411856",
@@ -15341,14 +15236,14 @@
       "model": "Nissan Altima",
       "vehicle": "2013 Nissan Altima 2.5 S",
       "price": 2800,
-      "miles": 192000,
+      "miles": 192046,
       "city": "Kansas City, MO",
       "days": 71,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회 · 같은 차 2건 게시"
+      "note": "같은 차 2건 게시"
     },
     {
       "id": "2076115996447081",
@@ -15359,11 +15254,11 @@
       "miles": 160000,
       "city": "Kansas City, MO",
       "days": 73,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4110572795909951",
@@ -15378,7 +15273,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "787299627744613",
@@ -15393,7 +15288,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "995550666529671",
@@ -15408,7 +15303,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "990820353492936",
@@ -15419,11 +15314,11 @@
       "miles": 212000,
       "city": "Overland Park, KS",
       "days": 111,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2136009354001364",
@@ -15438,7 +15333,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "948972028261840",
@@ -15451,9 +15346,9 @@
       "days": 1,
       "title": "unknown",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회 · 주행거리 표기 이상(원문 16,000 mi)"
+      "note": "운행·시동 불가 기재 · 주행거리 표기 이상(원문 16,600 mi)"
     },
     {
       "id": "2235369560367290",
@@ -15468,7 +15363,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2166356777244462",
@@ -15476,14 +15371,14 @@
       "model": "Dodge Grand Caravan",
       "vehicle": "2018 Dodge Grand Caravan ES",
       "price": 3000,
-      "miles": 183000,
+      "miles": 183650,
       "city": "Kansas City, KS",
       "days": 2,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1714126083021404",
@@ -15491,14 +15386,14 @@
       "model": "Honda Civic",
       "vehicle": "2008 Honda Civic",
       "price": 3000,
-      "miles": 213000,
+      "miles": 213598,
       "city": "Raytown, MO",
       "days": 2,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1851436716269844",
@@ -15509,11 +15404,11 @@
       "miles": 153000,
       "city": "Kansas City, KS",
       "days": 3,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1754888942469190",
@@ -15521,14 +15416,14 @@
       "model": "Buick LaCrosse",
       "vehicle": "2016 Buick LaCrosse Touring",
       "price": 3000,
-      "miles": 139000,
+      "miles": 139843,
       "city": "Kansas City, MO",
       "days": 4,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2095467297843439",
@@ -15543,7 +15438,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1087734100322199",
@@ -15558,7 +15453,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1783567129644910",
@@ -15569,11 +15464,11 @@
       "miles": 172000,
       "city": "Kansas City, MO",
       "days": 6,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4021173091523282",
@@ -15581,14 +15476,14 @@
       "model": "Nissan Rogue",
       "vehicle": "2011 Nissan Rogue S",
       "price": 3200,
-      "miles": 127000,
+      "miles": 127010,
       "city": "Kansas City, MO",
       "days": 8,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1614590776683337",
@@ -15596,20 +15491,20 @@
       "model": "Kia Sportage",
       "vehicle": "2014 Kia Sportage",
       "price": 3500,
-      "miles": 196000,
+      "miles": 196635,
       "city": "Kansas City, KS",
       "days": 9,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1638021494601099",
       "year": 2014,
       "model": "Chrysler 200",
-      "vehicle": "2014 Chrysler 200",
+      "vehicle": "2014 Chrysler 200 200S",
       "price": 3500,
       "miles": 198000,
       "city": "Kansas City, MO",
@@ -15618,7 +15513,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1385520713693818",
@@ -15633,7 +15528,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1448599853781347",
@@ -15641,14 +15536,14 @@
       "model": "Ford Escape",
       "vehicle": "2014 Ford Escape",
       "price": 3000,
-      "miles": 193000,
+      "miles": 193179,
       "city": "Kansas City, KS",
       "days": 12,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "헤드개스킷 문제 기재 · 누유·누수 기재 · AS IS 판매"
     },
     {
       "id": "821828107656879",
@@ -15663,22 +15558,22 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "설명 없음"
     },
     {
       "id": "1392325289752315",
       "year": 2011,
       "model": "Dodge Ram 1500",
-      "vehicle": "2011 Dodge Ram 1500",
+      "vehicle": "2011 Dodge Ram 1500 Sport",
       "price": 3500,
       "miles": 270000,
       "city": "Raymore, MO",
       "days": 16,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재"
     },
     {
       "id": "1096932056252692",
@@ -15689,11 +15584,11 @@
       "miles": 200000,
       "city": "Odessa, MO",
       "days": 19,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "953449827777651",
@@ -15704,11 +15599,11 @@
       "miles": 185000,
       "city": "Greenwood, MO",
       "days": 20,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1337942681469242",
@@ -15719,11 +15614,11 @@
       "miles": 178000,
       "city": "Leavenworth, KS",
       "days": 22,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재"
     },
     {
       "id": "985250427937382",
@@ -15734,17 +15629,17 @@
       "miles": 250000,
       "city": "Lenexa, KS",
       "days": 22,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4361952090786559",
       "year": 2016,
       "model": "Chevrolet Cruze",
-      "vehicle": "2016 Chevrolet Cruze limited Eco",
+      "vehicle": "2016 Chevrolet Cruze Eco",
       "price": 3500,
       "miles": 190000,
       "city": "Kansas City, MO",
@@ -15753,7 +15648,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4308584859393142",
@@ -15764,11 +15659,11 @@
       "miles": 206000,
       "city": "Kansas City, KS",
       "days": 24,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "3468928886608990",
@@ -15776,14 +15671,14 @@
       "model": "Jeep Compass",
       "vehicle": "2015 Jeep Compass",
       "price": 3900,
-      "miles": 186000,
+      "miles": 186382,
       "city": "Kansas City, MO",
       "days": 28,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1615338697044269",
@@ -15794,11 +15689,11 @@
       "miles": 184000,
       "city": "Kansas City, MO",
       "days": 28,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1727630918358740",
@@ -15809,11 +15704,11 @@
       "miles": 216000,
       "city": "Kansas City, MO",
       "days": 29,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2108710270530379",
@@ -15821,14 +15716,14 @@
       "model": "Chevrolet Aveo",
       "vehicle": "2011 Chevrolet Aveo LT",
       "price": 3950,
-      "miles": 131000,
+      "miles": 131342,
       "city": "Pleasant Valley, MO",
       "days": 31,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1650128213357523",
@@ -15836,14 +15731,14 @@
       "model": "Ford Explorer",
       "vehicle": "2014 Ford Explorer",
       "price": 3500,
-      "miles": 206000,
+      "miles": 206682,
       "city": "Kansas City, KS",
       "days": 35,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "AS IS 판매"
     },
     {
       "id": "1762282294920527",
@@ -15854,11 +15749,11 @@
       "miles": 272000,
       "city": "Kansas City, KS",
       "days": 36,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2018586238793367",
@@ -15873,7 +15768,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1628267509000179",
@@ -15881,14 +15776,14 @@
       "model": "Kia Sorento",
       "vehicle": "2014 Kia Sorento EX",
       "price": 3200,
-      "miles": 242000,
+      "miles": 242277,
       "city": "Mission Hills, KS",
       "days": 39,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1214619424179690",
@@ -15903,7 +15798,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1220461440223739",
@@ -15914,11 +15809,11 @@
       "miles": 125000,
       "city": "Kansas City, MO",
       "days": 43,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1536765257523896",
@@ -15933,22 +15828,22 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1077921547905884",
       "year": 2014,
       "model": "Chrysler 200",
-      "vehicle": "2014 Chrysler 200",
+      "vehicle": "2014 Chrysler 200 200C",
       "price": 3500,
       "miles": 190000,
       "city": "Grandview, MO",
       "days": 49,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "855040357689224",
@@ -15963,7 +15858,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1099239476113179",
@@ -15971,29 +15866,29 @@
       "model": "Volkswagen Touareg",
       "vehicle": "2010 Volkswagen Touareg VR6",
       "price": 3000,
-      "miles": 197000,
+      "miles": 197800,
       "city": "Freeman, MO",
       "days": 24,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1551751859762366",
       "year": 2012,
       "model": "Ford Transit Connect",
-      "vehicle": "2012 Ford Transit Connect passenger",
+      "vehicle": "2012 Ford Transit Connect XLT",
       "price": 3000,
       "miles": 288000,
       "city": "Overland Park, KS",
       "days": 56,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "변속기 이상 기재"
     },
     {
       "id": "1650423816057426",
@@ -16001,14 +15896,14 @@
       "model": "Chevrolet Cruze",
       "vehicle": "2014 Chevrolet Cruze LTZ",
       "price": 3000,
-      "miles": 200000,
+      "miles": 200942,
       "city": "Holden, MO",
       "days": 58,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2039301713623242",
@@ -16019,11 +15914,11 @@
       "miles": 233000,
       "city": "Kansas City, MO",
       "days": 58,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1269212376266055",
@@ -16031,14 +15926,14 @@
       "model": "Nissan Rogue",
       "vehicle": "2010 Nissan Rogue S",
       "price": 3000,
-      "miles": 154000,
+      "miles": 154043,
       "city": "Kansas City, MO",
       "days": 60,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4322913261352562",
@@ -16053,7 +15948,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1067744315816636",
@@ -16064,11 +15959,11 @@
       "miles": 172000,
       "city": "Independence, MO",
       "days": 72,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1049192214354911",
@@ -16076,14 +15971,14 @@
       "model": "Ford Taurus",
       "vehicle": "2013 Ford Taurus SHO",
       "price": 3500,
-      "miles": 233000,
+      "miles": 233333,
       "city": "Kansas City, MO",
       "days": 73,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1800882700878796",
@@ -16091,14 +15986,14 @@
       "model": "Honda Pilot",
       "vehicle": "2012 Honda Pilot LX",
       "price": 3500,
-      "miles": 233000,
+      "miles": 233805,
       "city": "Peculiar, MO",
       "days": 80,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1036330508790137",
@@ -16113,7 +16008,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1576009800850059",
@@ -16124,11 +16019,11 @@
       "miles": 192000,
       "city": "Kansas City, KS",
       "days": 87,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1031910642829874",
@@ -16139,11 +16034,11 @@
       "miles": 200000,
       "city": "Kansas City, MO",
       "days": 116,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1673963230308426",
@@ -16151,14 +16046,14 @@
       "model": "Kia Sorento",
       "vehicle": "2014 Kia Sorento LX",
       "price": 3500,
-      "miles": 203000,
+      "miles": 203993,
       "city": "Kansas City, MO",
       "days": 133,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "26976731918609675",
@@ -16173,7 +16068,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2281083289352709",
@@ -16184,11 +16079,11 @@
       "miles": 237000,
       "city": "Kansas City, MO",
       "days": 0,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "3225682770953093",
@@ -16199,11 +16094,11 @@
       "miles": 220000,
       "city": "Kansas City, KS",
       "days": 3,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2208587913053962",
@@ -16211,14 +16106,14 @@
       "model": "GMC Acadia",
       "vehicle": "2015 GMC Acadia SLT",
       "price": 4000,
-      "miles": 232000,
+      "miles": 232845,
       "city": "Kansas City, MO",
       "days": 4,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4217961388464363",
@@ -16226,14 +16121,14 @@
       "model": "Ford Escape",
       "vehicle": "2011 Ford Escape Limited",
       "price": 4500,
-      "miles": 202000,
+      "miles": 202300,
       "city": "Lenexa, KS",
       "days": 4,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "907857105493352",
@@ -16241,14 +16136,14 @@
       "model": "Ford Escape",
       "vehicle": "2012 Ford Escape SEL",
       "price": 4200,
-      "miles": 165000,
+      "miles": 165222,
       "city": "Kansas City, MO",
       "days": 5,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "에어컨 고장 기재"
     },
     {
       "id": "2881333328906800",
@@ -16263,22 +16158,22 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1087211740622841",
       "year": 2016,
       "model": "Ford F-150",
-      "vehicle": "2016 Ford F-150",
+      "vehicle": "2016 Ford F-150 XLT",
       "price": 4700,
-      "miles": 212000,
+      "miles": 212050,
       "city": "Kansas City, KS",
       "days": 7,
-      "title": "unknown",
+      "title": "salvage",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1635050298051828",
@@ -16293,7 +16188,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1052879527373110",
@@ -16301,20 +16196,20 @@
       "model": "GMC Terrain",
       "vehicle": "2011 GMC Terrain SL",
       "price": 4700,
-      "miles": 152000,
+      "miles": 152785,
       "city": "Kansas City, MO",
       "days": 7,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": true,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1411366084286730",
       "year": 2008,
       "model": "Lexus GS",
-      "vehicle": "2008 Lexus GS 350 F SPORT",
+      "vehicle": "2008 Lexus GS GS 350 F SPORT",
       "price": 4500,
       "miles": 250000,
       "city": "Kansas City, MO",
@@ -16323,7 +16218,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1055732617261292",
@@ -16331,14 +16226,14 @@
       "model": "Hyundai Santa Fe",
       "vehicle": "2013 Hyundai Santa Fe",
       "price": 4200,
-      "miles": 197000,
+      "miles": 197521,
       "city": "Kansas City, MO",
       "days": 9,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1864162665023326",
@@ -16346,14 +16241,14 @@
       "model": "Ford Fiesta",
       "vehicle": "2011 Ford Fiesta SE",
       "price": 4000,
-      "miles": 139000,
+      "miles": 139306,
       "city": "Kansas City, KS",
       "days": 9,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1073079208654675",
@@ -16364,11 +16259,11 @@
       "miles": 140000,
       "city": "Kansas City, KS",
       "days": 11,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1105569538541298",
@@ -16379,11 +16274,11 @@
       "miles": 180000,
       "city": "Olathe, KS",
       "days": 11,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
-      "avoid": false,
+      "avoid": true,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "변속기 수리 필요 기재"
     },
     {
       "id": "1070859952589458",
@@ -16391,14 +16286,14 @@
       "model": "GMC Acadia",
       "vehicle": "2008 GMC Acadia limited",
       "price": 4500,
-      "miles": 140000,
+      "miles": 140200,
       "city": "Kansas City, MO",
       "days": 12,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1058302453685640",
@@ -16409,41 +16304,41 @@
       "miles": 109000,
       "city": "Independence, MO",
       "days": 12,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2077909049486137",
       "year": 2010,
       "model": "Ford F-150",
-      "vehicle": "2010 Ford F-150",
+      "vehicle": "2010 Ford F-150 FX4",
       "price": 4500,
-      "miles": 240000,
+      "miles": 240766,
       "city": "Blue Springs, MO",
       "days": 13,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2285923495577759",
       "year": 2008,
       "model": "Lexus LS",
-      "vehicle": "2008 Lexus LS 460",
+      "vehicle": "2008 Lexus LS LS 460",
       "price": 4500,
-      "miles": 157000,
+      "miles": 157521,
       "city": "Shawnee, KS",
       "days": 13,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2158598814691410",
@@ -16451,14 +16346,14 @@
       "model": "Jeep Patriot",
       "vehicle": "2010 Jeep Patriot Limited",
       "price": 4000,
-      "miles": 145000,
+      "miles": 145123,
       "city": "Kansas City, MO",
       "days": 14,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1092638206674363",
@@ -16466,14 +16361,14 @@
       "model": "Kia Sportage",
       "vehicle": "2011 Kia Sportage",
       "price": 4100,
-      "miles": 213000,
+      "miles": 213949,
       "city": "Lenexa, KS",
       "days": 17,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1324264313117928",
@@ -16481,14 +16376,14 @@
       "model": "Ford Focus",
       "vehicle": "2015 Ford Focus Titanium",
       "price": 4500,
-      "miles": 175000,
+      "miles": 175500,
       "city": "Kansas City, MO",
       "days": 17,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1382656436829962",
@@ -16496,14 +16391,14 @@
       "model": "Mazda3",
       "vehicle": "2009 Mazda3 i Touring",
       "price": 4500,
-      "miles": 134000,
+      "miles": 134787,
       "city": "Olathe, KS",
       "days": 16,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1562552024881048",
@@ -16511,14 +16406,14 @@
       "model": "Ford Edge",
       "vehicle": "2014 Ford Edge Limited",
       "price": 4500,
-      "miles": 284000,
+      "miles": 284286,
       "city": "Lenexa, KS",
       "days": 17,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1464931348989063",
@@ -16529,11 +16424,11 @@
       "miles": 179000,
       "city": "Gardner, KS",
       "days": 19,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1034739209567403",
@@ -16544,11 +16439,11 @@
       "miles": 222000,
       "city": "Kansas City, MO",
       "days": 20,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1390363882501173",
@@ -16559,11 +16454,11 @@
       "miles": 190000,
       "city": "Kansas City, MO",
       "days": 21,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": true,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1059569380048411",
@@ -16578,7 +16473,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1785331269126861",
@@ -16589,11 +16484,11 @@
       "miles": 170000,
       "city": "Raymore, MO",
       "days": 22,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1495024485766997",
@@ -16608,7 +16503,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1832372061434339",
@@ -16634,11 +16529,11 @@
       "miles": 160000,
       "city": "Independence, MO",
       "days": 24,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "누유·누수 기재 · AS IS 판매"
     },
     {
       "id": "1717481946199742",
@@ -16646,14 +16541,14 @@
       "model": "Ford Focus",
       "vehicle": "2013 Ford Focus to dealership by end of the month!",
       "price": 4000,
-      "miles": 88000,
+      "miles": 88500,
       "city": "Kansas City, MO",
       "days": 24,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2160343078165797",
@@ -16664,11 +16559,11 @@
       "miles": 143000,
       "city": "Kansas City, MO",
       "days": 25,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재 · AS IS 판매"
     },
     {
       "id": "2389805911824485",
@@ -16676,14 +16571,14 @@
       "model": "Volkswagen Passat",
       "vehicle": "2015 Volkswagen Passat",
       "price": 4500,
-      "miles": 123000,
+      "miles": 123671,
       "city": "Kansas City, MO",
       "days": 26,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "설명 없음"
     },
     {
       "id": "850831644787083",
@@ -16691,14 +16586,14 @@
       "model": "Ford Escape",
       "vehicle": "2012 Ford Escape Active",
       "price": 4000,
-      "miles": 165000,
+      "miles": 165222,
       "city": "Kansas City, MO",
       "days": 28,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1038252792173913",
@@ -16706,14 +16601,14 @@
       "model": "Acura TL",
       "vehicle": "2008 Acura TL 3.2",
       "price": 4250,
-      "miles": 222000,
+      "miles": 222222,
       "city": "Kansas City, MO",
       "days": 30,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1261340149384528",
@@ -16724,11 +16619,11 @@
       "miles": 275000,
       "city": "Lee's Summit, MO",
       "days": 31,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1063143412922537",
@@ -16739,11 +16634,11 @@
       "miles": 146000,
       "city": "Independence, MO",
       "days": 32,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1081653704443632",
@@ -16754,11 +16649,11 @@
       "miles": 270000,
       "city": "Independence, MO",
       "days": 32,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1043791958447567",
@@ -16769,11 +16664,11 @@
       "miles": 180000,
       "city": "Kansas City, MO",
       "days": 33,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1590705682630952",
@@ -16788,7 +16683,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1039103698739845",
@@ -16796,14 +16691,14 @@
       "model": "Nissan Rogue",
       "vehicle": "2011 Nissan Rogue SL",
       "price": 4700,
-      "miles": 154000,
+      "miles": 154400,
       "city": "Kansas City, MO",
       "days": 35,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1602978674824483",
@@ -16811,14 +16706,14 @@
       "model": "Ford F-150",
       "vehicle": "2009 Ford F-150 King Ranch 4D",
       "price": 4500,
-      "miles": 216000,
+      "miles": 216798,
       "city": "Kansas City, MO",
       "days": 35,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2576499142785553",
@@ -16833,7 +16728,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1560306242508334",
@@ -16841,14 +16736,14 @@
       "model": "Ford Escape",
       "vehicle": "2015 Ford Escape S",
       "price": 4400,
-      "miles": 165000,
+      "miles": 165412,
       "city": "Kansas City, MO",
       "days": 43,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1501032425374741",
@@ -16859,11 +16754,11 @@
       "miles": 150000,
       "city": "Kansas City, MO",
       "days": 43,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1036540915815221",
@@ -16874,11 +16769,11 @@
       "miles": 195000,
       "city": "Olathe, KS",
       "days": 44,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2197432347490605",
@@ -16886,14 +16781,14 @@
       "model": "Chevrolet Cruze",
       "vehicle": "2015 Chevrolet Cruze LT",
       "price": 4000,
-      "miles": 120000,
+      "miles": 120088,
       "city": "Kansas City, MO",
       "days": 45,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4480257228906899",
@@ -16901,14 +16796,14 @@
       "model": "Chevrolet Cruze",
       "vehicle": "2013 Chevrolet Cruze",
       "price": 4500,
-      "miles": 136000,
+      "miles": 136283,
       "city": "Kansas City, MO",
       "days": 48,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2528884760940701",
@@ -16923,7 +16818,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1581609886910974",
@@ -16931,14 +16826,14 @@
       "model": "Dodge Dart",
       "vehicle": "2013 Dodge Dart sxt",
       "price": 4500,
-      "miles": 173000,
+      "miles": 173188,
       "city": "Kansas City, MO",
       "days": 51,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1734913627715216",
@@ -16949,11 +16844,11 @@
       "miles": 163000,
       "city": "Leawood, KS",
       "days": 52,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1078450628003962",
@@ -16968,7 +16863,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1205303535101405",
@@ -16976,14 +16871,14 @@
       "model": "Smart Fortwo",
       "vehicle": "2008 Smart Fortwo Passion",
       "price": 4300,
-      "miles": 126000,
+      "miles": 126750,
       "city": "Blue Springs, MO",
       "days": 56,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1556573039346524",
@@ -16994,11 +16889,11 @@
       "miles": 150000,
       "city": "Kansas City, MO",
       "days": 56,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "924202907379866",
@@ -17009,11 +16904,11 @@
       "miles": 230000,
       "city": "Kansas City, MO",
       "days": 56,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "27345006365192600",
@@ -17024,11 +16919,11 @@
       "miles": 190000,
       "city": "Kansas City, KS",
       "days": 62,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1585269103114910",
@@ -17039,11 +16934,11 @@
       "miles": 183000,
       "city": "Kansas City, MO",
       "days": 63,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1995471111336127",
@@ -17058,7 +16953,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2143105609933522",
@@ -17069,11 +16964,11 @@
       "miles": 184000,
       "city": "Kansas City, MO",
       "days": 65,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "누유·누수 기재"
     },
     {
       "id": "2455779931608955",
@@ -17084,11 +16979,11 @@
       "miles": 150000,
       "city": "Sugar Creek, MO",
       "days": 68,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "987448287661923",
@@ -17096,14 +16991,14 @@
       "model": "Ford Escape",
       "vehicle": "2018 Ford Escape Tela",
       "price": 4000,
-      "miles": 163000,
+      "miles": 163222,
       "city": "Shawnee, KS",
       "days": 69,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1382320477104586",
@@ -17114,26 +17009,26 @@
       "miles": 127000,
       "city": "Kansas City, MO",
       "days": 70,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1950762328942625",
       "year": 2012,
       "model": "BMW 5 Series",
-      "vehicle": "2012 BMW 5 Series series 535i",
+      "vehicle": "2012 BMW 5 Series 535i",
       "price": 4000,
       "miles": 125000,
       "city": "Kansas City, MO",
       "days": 77,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1281748880478625",
@@ -17144,11 +17039,11 @@
       "miles": null,
       "city": "Kansas City, KS",
       "days": 83,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회 · 주행거리 표기 이상(원문 19,000 mi)"
+      "note": "주행거리 표기 이상(원문 19,000 mi)"
     },
     {
       "id": "1341453377363874",
@@ -17159,11 +17054,11 @@
       "miles": 170000,
       "city": "Leavenworth, KS",
       "days": 84,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "3921955148101059",
@@ -17171,14 +17066,14 @@
       "model": "Volkswagen GTI",
       "vehicle": "2008 Volkswagen GTI 1.8T",
       "price": 4200,
-      "miles": 184000,
+      "miles": 184860,
       "city": "Olathe, KS",
       "days": 91,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1514878973708293",
@@ -17189,11 +17084,11 @@
       "miles": 220000,
       "city": "Kansas City, MO",
       "days": 95,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1731120988243685",
@@ -17201,14 +17096,14 @@
       "model": "Chevrolet Impala",
       "vehicle": "2011 Chevrolet Impala LS",
       "price": 4700,
-      "miles": 171000,
+      "miles": 171535,
       "city": "Overland Park, KS",
       "days": 102,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2988825851449773",
@@ -17223,7 +17118,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재"
     },
     {
       "id": "1766613167811021",
@@ -17231,29 +17126,29 @@
       "model": "Mercedes-Benz C-Class",
       "vehicle": "2012 Mercedes-Benz C-Class C 250 Luxury",
       "price": 4000,
-      "miles": 138000,
+      "miles": 138500,
       "city": "Kansas City, KS",
       "days": 166,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2165029144427789",
       "year": 2009,
       "model": "BMW 3 Series",
-      "vehicle": "2009 BMW 3 Series series 328i xDrive",
+      "vehicle": "2009 BMW 3 Series 328i xDrive",
       "price": 5450,
       "miles": 127000,
       "city": "Kansas City, MO",
       "days": 0,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1079938621630428",
@@ -17264,11 +17159,11 @@
       "miles": 137000,
       "city": "Kansas City, MO",
       "days": 0,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1036780562732441",
@@ -17279,11 +17174,11 @@
       "miles": 169000,
       "city": "Overland Park, KS",
       "days": 0,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2007576393291015",
@@ -17294,11 +17189,11 @@
       "miles": 143000,
       "city": "Kearney, MO",
       "days": 2,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1080656864888570",
@@ -17313,7 +17208,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4590405921281181",
@@ -17324,11 +17219,11 @@
       "miles": 152000,
       "city": "Kansas City, KS",
       "days": 3,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1645424837249620",
@@ -17336,14 +17231,14 @@
       "model": "Volkswagen Passat",
       "vehicle": "2015 Volkswagen Passat TDI SEL Premium",
       "price": 4999,
-      "miles": 221000,
+      "miles": 221438,
       "city": "Lee's Summit, MO",
       "days": 5,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": true,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1753113799241855",
@@ -17351,14 +17246,14 @@
       "model": "Dodge Dart",
       "vehicle": "2014 Dodge Dart",
       "price": 4895,
-      "miles": 85000,
+      "miles": 85359,
       "city": "Kansas City, MO",
       "days": 5,
       "title": "unknown",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "2316368479160065",
@@ -17366,14 +17261,14 @@
       "model": "Lincoln MKX",
       "vehicle": "2013 Lincoln MKX Premiere",
       "price": 5000,
-      "miles": 200000,
+      "miles": 200721,
       "city": "Lee's Summit, MO",
       "days": 5,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1109418928090779",
@@ -17384,11 +17279,11 @@
       "miles": 203000,
       "city": "Kansas City, MO",
       "days": 5,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1369083941927839",
@@ -17399,11 +17294,11 @@
       "miles": 160000,
       "city": "Kansas City, MO",
       "days": 6,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1645180657182342",
@@ -17414,11 +17309,11 @@
       "miles": 116000,
       "city": "Sugar Creek, MO",
       "days": 6,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1583979599770595",
@@ -17433,7 +17328,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1417907763609496",
@@ -17441,14 +17336,14 @@
       "model": "Nissan Quest",
       "vehicle": "2012 Nissan Quest SL",
       "price": 4800,
-      "miles": 152000,
+      "miles": 152819,
       "city": "Blue Springs, MO",
       "days": 8,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1686678015770398",
@@ -17459,11 +17354,11 @@
       "miles": 86000,
       "city": "Kansas City, MO",
       "days": 9,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2478470102676362",
@@ -17474,11 +17369,11 @@
       "miles": 148000,
       "city": "Kingsville, MO",
       "days": 10,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1090077783606629",
@@ -17489,11 +17384,11 @@
       "miles": 171000,
       "city": "Kansas City, MO",
       "days": 12,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "2951622831865087",
@@ -17504,26 +17399,26 @@
       "miles": 190000,
       "city": "Kansas City, KS",
       "days": 13,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재"
     },
     {
       "id": "2091530474793861",
       "year": 2017,
       "model": "Dodge Grand Caravan",
-      "vehicle": "2017 Dodge Grand Caravan passenger GT",
+      "vehicle": "2017 Dodge Grand Caravan GT",
       "price": 5250,
       "miles": 175000,
       "city": "Olathe, KS",
       "days": 13,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2154542038461340",
@@ -17531,14 +17426,14 @@
       "model": "Chevrolet Cruze",
       "vehicle": "2015 Chevrolet Cruze LT",
       "price": 4950,
-      "miles": 126000,
+      "miles": 126488,
       "city": "Kansas City, MO",
       "days": 13,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1427909152523784",
@@ -17549,11 +17444,11 @@
       "miles": 140000,
       "city": "Oak Grove, MO",
       "days": 14,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1861228755284461",
@@ -17561,29 +17456,29 @@
       "model": "Chevrolet Sonic",
       "vehicle": "2015 Chevrolet Sonic",
       "price": 4990,
-      "miles": 145000,
+      "miles": 145062,
       "city": "Kansas City, MO",
       "days": 14,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "다운페이·할부 광고"
     },
     {
       "id": "1117556447272159",
       "year": 2008,
       "model": "Lexus GS",
-      "vehicle": "2008 Lexus GS 350 Crafted Line",
+      "vehicle": "2008 Lexus GS GS 350 Crafted Line",
       "price": 4800,
       "miles": 250000,
       "city": "Overland Park, KS",
       "days": 15,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1805558103951124",
@@ -17591,14 +17486,14 @@
       "model": "Acura TSX",
       "vehicle": "2011 Acura TSX",
       "price": 4800,
-      "miles": 215000,
+      "miles": 215751,
       "city": "Kansas City, MO",
       "days": 15,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1554346576376878",
@@ -17609,11 +17504,11 @@
       "miles": 108000,
       "city": "Kansas City, MO",
       "days": 15,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1370674128483785",
@@ -17621,14 +17516,14 @@
       "model": "Ford Fusion",
       "vehicle": "2015 Ford Fusion S",
       "price": 4965,
-      "miles": 184000,
+      "miles": 184508,
       "city": "Kansas City, MO",
       "days": 15,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "1096847783302425",
@@ -17639,11 +17534,11 @@
       "miles": 153000,
       "city": "Independence, MO",
       "days": 16,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "991960120528890",
@@ -17654,11 +17549,11 @@
       "miles": 160000,
       "city": "Kansas City, KS",
       "days": 17,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1044976168413746",
@@ -17666,14 +17561,14 @@
       "model": "Hyundai Santa Fe",
       "vehicle": "2011 Hyundai Santa Fe SE",
       "price": 5000,
-      "miles": 141000,
+      "miles": 141805,
       "city": "Olathe, KS",
       "days": 17,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1405745084829663",
@@ -17684,11 +17579,11 @@
       "miles": 215000,
       "city": "Kansas City, KS",
       "days": 19,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "28470069329347379",
@@ -17703,7 +17598,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1693512822392354",
@@ -17711,14 +17606,14 @@
       "model": "Jeep Compass",
       "vehicle": "2014 Jeep Compass",
       "price": 5000,
-      "miles": 147000,
+      "miles": 147087,
       "city": "Independence, MO",
       "days": 19,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1202289682596847",
@@ -17726,14 +17621,14 @@
       "model": "Chevrolet Sonic",
       "vehicle": "2016 Chevrolet Sonic LT",
       "price": 5300,
-      "miles": 87000,
+      "miles": 87080,
       "city": "Blue Springs, MO",
       "days": 20,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1620925139712137",
@@ -17741,14 +17636,14 @@
       "model": "Mazda3",
       "vehicle": "2011 Mazda3 Sport",
       "price": 4995,
-      "miles": 175000,
+      "miles": 175595,
       "city": "Shawnee, KS",
       "days": 21,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1817775852714931",
@@ -17759,11 +17654,11 @@
       "miles": 171000,
       "city": "Kansas City, MO",
       "days": 22,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1583938970040693",
@@ -17774,11 +17669,11 @@
       "miles": 160000,
       "city": "Kansas City, MO",
       "days": 24,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "1040708368773303",
@@ -17789,11 +17684,11 @@
       "miles": 160000,
       "city": "Grandview, MO",
       "days": 26,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2136405363957504",
@@ -17801,14 +17696,14 @@
       "model": "Chevrolet Trax",
       "vehicle": "2015 Chevrolet Trax - low miles - new ac compressor",
       "price": 5200,
-      "miles": 122000,
+      "miles": 122700,
       "city": "Olathe, KS",
       "days": 27,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1181204031752755",
@@ -17816,14 +17711,14 @@
       "model": "GMC Terrain",
       "vehicle": "2016 GMC Terrain SLE",
       "price": 5300,
-      "miles": 186000,
+      "miles": 186723,
       "city": "Kansas City, MO",
       "days": 28,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2129292334649142",
@@ -17838,7 +17733,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1566502375210691",
@@ -17853,7 +17748,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1723557608864450",
@@ -17864,11 +17759,11 @@
       "miles": 137000,
       "city": "Independence, MO",
       "days": 32,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1002560436126549",
@@ -17879,11 +17774,11 @@
       "miles": 202000,
       "city": "Kansas City, MO",
       "days": 33,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1366441962286362",
@@ -17891,14 +17786,14 @@
       "model": "Jeep Grand Cherokee",
       "vehicle": "2012 Jeep Grand Cherokee Overland",
       "price": 5000,
-      "miles": 190000,
+      "miles": 190123,
       "city": "Kansas City, MO",
       "days": 33,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": true,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1799105207762716",
@@ -17906,14 +17801,14 @@
       "model": "Honda Odyssey",
       "vehicle": "2014 Honda Odyssey Touring Elite",
       "price": 4999,
-      "miles": 253000,
+      "miles": 253500,
       "city": "Lenexa, KS",
       "days": 33,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "28025205173840642",
@@ -17921,14 +17816,14 @@
       "model": "Dodge Avenger",
       "vehicle": "2010 Dodge Avenger SXT",
       "price": 5000,
-      "miles": 137000,
+      "miles": 137700,
       "city": "Oak Grove, MO",
       "days": 34,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1024021563780352",
@@ -17936,14 +17831,14 @@
       "model": "Chevrolet Cruze",
       "vehicle": "2013 Chevrolet Cruze",
       "price": 4900,
-      "miles": 178000,
+      "miles": 178074,
       "city": "Kansas City, MO",
       "days": 35,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1065709619440787",
@@ -17954,11 +17849,11 @@
       "miles": 188000,
       "city": "Overland Park, KS",
       "days": 36,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2338652430206622",
@@ -17969,11 +17864,11 @@
       "miles": 155000,
       "city": "Grandview, MO",
       "days": 38,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "1200273245628456",
@@ -17984,11 +17879,11 @@
       "miles": 158000,
       "city": "Grandview, MO",
       "days": 38,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "2526921261086585",
@@ -17996,14 +17891,14 @@
       "model": "Nissan Rogue",
       "vehicle": "2013 Nissan Rogue SV",
       "price": 5000,
-      "miles": 175000,
+      "miles": 175903,
       "city": "Olathe, KS",
       "days": 38,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1056320410326530",
@@ -18011,14 +17906,14 @@
       "model": "Ford Flex",
       "vehicle": "2015 Ford Flex SE",
       "price": 5000,
-      "miles": 128000,
+      "miles": 128571,
       "city": "Olathe, KS",
       "days": 39,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1077713498283633",
@@ -18033,13 +17928,13 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "937630235279498",
       "year": 2012,
       "model": "Dodge Ram 1500",
-      "vehicle": "2012 Dodge Ram 1500",
+      "vehicle": "2012 Dodge Ram 1500 ST",
       "price": 5000,
       "miles": 205000,
       "city": "Peculiar, MO",
@@ -18048,7 +17943,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1670153524058633",
@@ -18059,11 +17954,11 @@
       "miles": 121000,
       "city": "Kansas City, MO",
       "days": 31,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1474770314686437",
@@ -18074,11 +17969,11 @@
       "miles": 197000,
       "city": "Kansas City, MO",
       "days": 40,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1594562528892883",
@@ -18086,14 +17981,14 @@
       "model": "Honda Pilot",
       "vehicle": "2011 Honda Pilot LX",
       "price": 4999,
-      "miles": 195000,
+      "miles": 195619,
       "city": "Kansas City, MO",
       "days": 41,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "988078434260343",
@@ -18101,14 +17996,14 @@
       "model": "Ford Edge",
       "vehicle": "2013 Ford Edge SEL",
       "price": 4895,
-      "miles": 144000,
+      "miles": 144355,
       "city": "Oak Grove, MO",
       "days": 41,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1304789511603845",
@@ -18116,14 +18011,14 @@
       "model": "Buick Enclave",
       "vehicle": "2008 Buick Enclave CXL",
       "price": 4999,
-      "miles": 123000,
+      "miles": 123700,
       "city": "Independence, MO",
       "days": 42,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1059733296648121",
@@ -18134,11 +18029,11 @@
       "miles": 193000,
       "city": "Kansas City, KS",
       "days": 45,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2302320253935140",
@@ -18146,14 +18041,14 @@
       "model": "Ford Escape",
       "vehicle": "2015 Ford Escape S",
       "price": 4800,
-      "miles": 165000,
+      "miles": 165081,
       "city": "Kansas City, MO",
       "days": 47,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1371672064419168",
@@ -18164,11 +18059,11 @@
       "miles": 248000,
       "city": "Kansas City, MO",
       "days": 48,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "4502292070058965",
@@ -18179,11 +18074,11 @@
       "miles": 106000,
       "city": "Grandview, MO",
       "days": 49,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4310414289219300",
@@ -18191,14 +18086,14 @@
       "model": "Jeep Compass",
       "vehicle": "2015 Jeep Compass",
       "price": 5000,
-      "miles": 150000,
+      "miles": 150327,
       "city": "Kansas City, KS",
       "days": 52,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2563080764105633",
@@ -18209,11 +18104,11 @@
       "miles": 134000,
       "city": "Independence, MO",
       "days": 52,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1021452510784970",
@@ -18224,11 +18119,11 @@
       "miles": 187000,
       "city": "Olathe, KS",
       "days": 54,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1040494481669197",
@@ -18236,29 +18131,29 @@
       "model": "MINI Countryman",
       "vehicle": "2013 MINI Countryman Classic Cooper S ALL4",
       "price": 5200,
-      "miles": 98000,
+      "miles": 98123,
       "city": "Raytown, MO",
       "days": 54,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1678196317198957",
       "year": 2015,
       "model": "Chrysler 200",
-      "vehicle": "2015 Chrysler 200",
+      "vehicle": "2015 Chrysler 200 200C",
       "price": 5000,
       "miles": 158000,
       "city": "Kansas City, MO",
       "days": 55,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "846595711718424",
@@ -18273,7 +18168,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1026975943377606",
@@ -18281,14 +18176,14 @@
       "model": "Subaru Forester",
       "vehicle": "2011 Subaru Forester",
       "price": 5300,
-      "miles": 158000,
+      "miles": 158200,
       "city": "Independence, MO",
       "days": 57,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1324767199419594",
@@ -18296,14 +18191,14 @@
       "model": "Honda CR-V",
       "vehicle": "2009 Honda CR-V",
       "price": 5000,
-      "miles": 235000,
+      "miles": 235984,
       "city": "Kansas City, MO",
       "days": 58,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1062164412859404",
@@ -18318,7 +18213,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2284380065697748",
@@ -18329,11 +18224,11 @@
       "miles": 152000,
       "city": "Kansas City, KS",
       "days": 61,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1429055179032551",
@@ -18341,14 +18236,14 @@
       "model": "Nissan Juke",
       "vehicle": "2013 Nissan Juke S",
       "price": 4900,
-      "miles": 114000,
+      "miles": 114183,
       "city": "Shawnee, KS",
       "days": 61,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1593882118979971",
@@ -18359,11 +18254,11 @@
       "miles": 159000,
       "city": "Kansas City, MO",
       "days": 64,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1551422146529476",
@@ -18378,37 +18273,37 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1705870507400278",
       "year": 2010,
       "model": "GMC Sierra 1500",
-      "vehicle": "2010 GMC Sierra 1500",
+      "vehicle": "2010 GMC Sierra 1500 Long Bed",
       "price": 5000,
-      "miles": 217000,
+      "miles": 217200,
       "city": "Kansas City, KS",
       "days": 70,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재 · 누유·누수 기재"
     },
     {
       "id": "1480271057206084",
       "year": 2009,
       "model": "Chevrolet Silverado 1500",
-      "vehicle": "2009 Chevrolet Silverado 1500 (classic) 1500",
+      "vehicle": "2009 Chevrolet Silverado 1500 LT",
       "price": 4800,
       "miles": 154000,
       "city": "Lansing, KS",
       "days": 79,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "AS IS 판매"
     },
     {
       "id": "1509974950516675",
@@ -18423,7 +18318,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회 · 주행거리 표기 이상(원문 16,000 mi)"
+      "note": "주행거리 표기 이상(원문 16,000 mi)"
     },
     {
       "id": "1638452510770603",
@@ -18431,14 +18326,14 @@
       "model": "GMC Acadia",
       "vehicle": "2012 GMC Acadia Denali",
       "price": 5000,
-      "miles": 192000,
+      "miles": 192663,
       "city": "Raytown, MO",
       "days": 123,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1291001925968083",
@@ -18446,14 +18341,14 @@
       "model": "Ford Flex",
       "vehicle": "2017 Ford Flex Limited",
       "price": 4999,
-      "miles": 179000,
+      "miles": 179088,
       "city": "Lenexa, KS",
       "days": 130,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "981801921376871",
@@ -18461,14 +18356,14 @@
       "model": "Ford Ranger",
       "vehicle": "2011 Ford Ranger Xlt",
       "price": 5000,
-      "miles": 138000,
+      "miles": 138407,
       "city": "Stilwell, KS",
       "days": 130,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "변속기 이상 기재 · AS IS 판매"
     },
     {
       "id": "4479243859007300",
@@ -18479,17 +18374,17 @@
       "miles": 130000,
       "city": "Blue Springs, MO",
       "days": 131,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재"
     },
     {
       "id": "1355226603330040",
       "year": 2008,
       "model": "Land Rover Range Rover Sport",
-      "vehicle": "2008 Land Rover Range Rover Sport range rover sport Autobiography",
+      "vehicle": "2008 Land Rover Range Rover Sport Autobiography",
       "price": 4800,
       "miles": 119000,
       "city": "Parkville, MO",
@@ -18498,7 +18393,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1833265437657867",
@@ -18506,20 +18401,20 @@
       "model": "Nissan Murano",
       "vehicle": "2014 Nissan Murano Cross-Cabriolet",
       "price": 5500,
-      "miles": 123000,
+      "miles": 123250,
       "city": "Raytown, MO",
       "days": 0,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1498580762142715",
       "year": 2014,
       "model": "Dodge Ram 1500",
-      "vehicle": "2014 Dodge Ram 1500 classic",
+      "vehicle": "2014 Dodge Ram 1500 Tradesman",
       "price": 6000,
       "miles": 290000,
       "city": "Kansas City, MO",
@@ -18528,7 +18423,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "AS IS 판매"
     },
     {
       "id": "1758350562115300",
@@ -18539,11 +18434,11 @@
       "miles": 174000,
       "city": "Belton, MO",
       "days": 1,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2150055882527177",
@@ -18551,14 +18446,14 @@
       "model": "Toyota Prius",
       "vehicle": "2010 Toyota Prius I",
       "price": 5950,
-      "miles": 215000,
+      "miles": 215350,
       "city": "Independence, MO",
       "days": 1,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": true,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1038215275939120",
@@ -18569,11 +18464,11 @@
       "miles": 176000,
       "city": "Independence, MO",
       "days": 1,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "1266571475572575",
@@ -18584,11 +18479,11 @@
       "miles": 150000,
       "city": "Kansas City, MO",
       "days": 2,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2162270047659958",
@@ -18596,14 +18491,14 @@
       "model": "Hyundai Santa Fe",
       "vehicle": "2012 Hyundai Santa Fe SE",
       "price": 5500,
-      "miles": 155000,
+      "miles": 155982,
       "city": "Riverside, MO",
       "days": 2,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1644805993825623",
@@ -18611,14 +18506,14 @@
       "model": "Subaru Forester",
       "vehicle": "2010 Subaru Forester 2.5x premium",
       "price": 6000,
-      "miles": 192000,
+      "miles": 192541,
       "city": "Kansas City, MO",
       "days": 3,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "설명 없음"
     },
     {
       "id": "1109949561564187",
@@ -18629,11 +18524,11 @@
       "miles": 125000,
       "city": "Overland Park, KS",
       "days": 3,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회 · 같은 차 2건 게시"
+      "note": "같은 차 2건 게시"
     },
     {
       "id": "1613329863659357",
@@ -18641,14 +18536,14 @@
       "model": "Pontiac Solstice",
       "vehicle": "2008 Pontiac Solstice GXP",
       "price": 5900,
-      "miles": 100000,
+      "miles": 100976,
       "city": "Kansas City, MO",
       "days": 4,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2659358217834659",
@@ -18663,7 +18558,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회 · 주행거리 표기 이상(원문 1,300 mi)"
+      "note": "설명 없음 · 주행거리 표기 이상(원문 1,300 mi)"
     },
     {
       "id": "38616685391279602",
@@ -18674,11 +18569,11 @@
       "miles": 109000,
       "city": "Kansas City, KS",
       "days": 4,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4384940381760834",
@@ -18686,20 +18581,20 @@
       "model": "GMC Terrain",
       "vehicle": "2011 GMC Terrain",
       "price": 5500,
-      "miles": 152000,
+      "miles": 152784,
       "city": "Independence, MO",
       "days": 5,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "28854092660862070",
       "year": 2009,
       "model": "BMW 3 Series",
-      "vehicle": "2009 BMW 3 Series series 328i xDrive",
+      "vehicle": "2009 BMW 3 Series 328i xDrive",
       "price": 5900,
       "miles": 148000,
       "city": "Shawnee, KS",
@@ -18708,7 +18603,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "3313884498795552",
@@ -18716,14 +18611,14 @@
       "model": "Toyota Prius",
       "vehicle": "2014 Toyota Prius III",
       "price": 5700,
-      "miles": 175000,
+      "miles": 175020,
       "city": "Olathe, KS",
       "days": 5,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1332833678796220",
@@ -18738,7 +18633,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1790590198952276",
@@ -18749,11 +18644,11 @@
       "miles": 195000,
       "city": "Overland Park, KS",
       "days": 6,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1100964542322147",
@@ -18761,14 +18656,14 @@
       "model": "Hyundai Sonata",
       "vehicle": "2014 Hyundai Sonata GLS",
       "price": 5750,
-      "miles": 134000,
+      "miles": 134460,
       "city": "Kansas City, MO",
       "days": 7,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1632743191843806",
@@ -18776,14 +18671,14 @@
       "model": "Jeep Latitude",
       "vehicle": "2018 Jeep Latitude",
       "price": 5985,
-      "miles": 195000,
+      "miles": 195300,
       "city": "Independence, MO",
       "days": 8,
       "title": "unknown",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "1617214946626962",
@@ -18794,11 +18689,11 @@
       "miles": 118000,
       "city": "Olathe, KS",
       "days": 8,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": true,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2042267499791962",
@@ -18813,7 +18708,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1798846294866211",
@@ -18821,29 +18716,29 @@
       "model": "Chevrolet Cruze",
       "vehicle": "2013 Chevrolet Cruze",
       "price": 5995,
-      "miles": 108000,
+      "miles": 108338,
       "city": "Kansas City, KS",
       "days": 9,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1089501150291510",
       "year": 2009,
       "model": "Pontiac G6",
-      "vehicle": "2009 Pontiac G6 (2009.5) GXP",
+      "vehicle": "2009 Pontiac G6 GXP",
       "price": 5500,
       "miles": 155000,
       "city": "Overland Park, KS",
       "days": 9,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2180258839557638",
@@ -18854,11 +18749,11 @@
       "miles": 124000,
       "city": "Kansas City, KS",
       "days": 9,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1598292605122652",
@@ -18869,11 +18764,11 @@
       "miles": 90000,
       "city": "Independence, MO",
       "days": 11,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "4634609383479838",
@@ -18884,11 +18779,11 @@
       "miles": 152000,
       "city": "Overland Park, KS",
       "days": 12,
-      "title": "unknown",
+      "title": "salvage",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "우박 이력"
     },
     {
       "id": "1109711591616515",
@@ -18903,22 +18798,22 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1027139056813774",
       "year": 2011,
       "model": "GMC Yukon XL",
-      "vehicle": "2011 GMC Yukon XL xl 1500 SL",
+      "vehicle": "2011 GMC Yukon XL SL",
       "price": 5500,
-      "miles": 200000,
+      "miles": 200087,
       "city": "Grain Valley, MO",
       "days": 16,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "950501091430806",
@@ -18929,11 +18824,11 @@
       "miles": 221000,
       "city": "Overland Park, KS",
       "days": 16,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1381877020186333",
@@ -18941,14 +18836,14 @@
       "model": "Honda Pilot",
       "vehicle": "2011 Honda Pilot Touring",
       "price": 5800,
-      "miles": 205000,
+      "miles": 205500,
       "city": "Grandview, MO",
       "days": 18,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2204898720072170",
@@ -18956,14 +18851,14 @@
       "model": "Honda Civic",
       "vehicle": "2015 Honda Civic Touring",
       "price": 6000,
-      "miles": 157000,
+      "miles": 157882,
       "city": "Kansas City, MO",
       "days": 18,
-      "title": "unknown",
+      "title": "salvage",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1063568706438241",
@@ -18971,14 +18866,14 @@
       "model": "Toyota Camry",
       "vehicle": "2012 Toyota Camry XLE",
       "price": 5700,
-      "miles": 246000,
+      "miles": 246159,
       "city": "Kansas City, MO",
       "days": 20,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1593238722209680",
@@ -18993,7 +18888,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "28223644943961458",
@@ -19001,14 +18896,14 @@
       "model": "Jeep Patriot",
       "vehicle": "2010 Jeep Patriot",
       "price": 5700,
-      "miles": 109000,
+      "miles": 109835,
       "city": "Kansas City, MO",
       "days": 21,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1025246220514742",
@@ -19023,7 +18918,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1417121590265112",
@@ -19038,7 +18933,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1389054950772050",
@@ -19053,7 +18948,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2232753957515022",
@@ -19061,14 +18956,14 @@
       "model": "Kia Sportage",
       "vehicle": "2014 Kia Sportage EX",
       "price": 5999,
-      "miles": 160000,
+      "miles": 160300,
       "city": "Independence, MO",
       "days": 27,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "AS IS 판매"
     },
     {
       "id": "2144055726141587",
@@ -19076,14 +18971,14 @@
       "model": "Lincoln MKX",
       "vehicle": "2013 Lincoln MKX",
       "price": 5550,
-      "miles": 111000,
+      "miles": 111423,
       "city": "Olathe, KS",
       "days": 28,
-      "title": "unknown",
+      "title": "salvage",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1026777613515603",
@@ -19091,20 +18986,20 @@
       "model": "Toyota RAV4",
       "vehicle": "2013 Toyota RAV4 LE",
       "price": 5800,
-      "miles": 284000,
+      "miles": 284499,
       "city": "Gardner, KS",
       "days": 31,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "누유·누수 기재"
     },
     {
       "id": "1682712576131558",
       "year": 2008,
       "model": "Ford F-150",
-      "vehicle": "2008 Ford F-150",
+      "vehicle": "2008 Ford F-150 XLT",
       "price": 5500,
       "miles": 88000,
       "city": "Kansas City, MO",
@@ -19113,7 +19008,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2329531724250643",
@@ -19121,14 +19016,14 @@
       "model": "Toyota Camry",
       "vehicle": "2009 Toyota Camry LE",
       "price": 5500,
-      "miles": 176000,
+      "miles": 176900,
       "city": "Independence, MO",
       "days": 34,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1040201815452847",
@@ -19136,14 +19031,14 @@
       "model": "Lincoln MKX",
       "vehicle": "2010 Lincoln MKX",
       "price": 6000,
-      "miles": 148000,
+      "miles": 148800,
       "city": "Independence, MO",
       "days": 34,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2771191469920464",
@@ -19151,29 +19046,29 @@
       "model": "Toyota Highlander",
       "vehicle": "2010 Toyota Highlander",
       "price": 5995,
-      "miles": 184000,
+      "miles": 184541,
       "city": "Mission, KS",
       "days": 36,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "1455756279918984",
       "year": 2011,
-      "model": "Jeep Grand Cherokee L",
-      "vehicle": "2011 Jeep Grand Cherokee L Limited",
+      "model": "Jeep Grand Cherokee",
+      "vehicle": "2011 Jeep Grand Cherokee Limited",
       "price": 5500,
-      "miles": 187000,
+      "miles": 187360,
       "city": "Kansas City, KS",
       "days": 37,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1731254244590295",
@@ -19181,14 +19076,14 @@
       "model": "Ford Edge",
       "vehicle": "2014 Ford Edge",
       "price": 5700,
-      "miles": 184000,
+      "miles": 184587,
       "city": "Excelsior Springs, MO",
       "days": 39,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1633642125093530",
@@ -19196,14 +19091,14 @@
       "model": "Ford Edge",
       "vehicle": "2014 Ford Edge SEL Plus",
       "price": 5500,
-      "miles": 170000,
+      "miles": 170172,
       "city": "Belton, MO",
       "days": 41,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1603245971347112",
@@ -19214,11 +19109,11 @@
       "miles": 137000,
       "city": "Kansas City, MO",
       "days": 43,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1877521676750871",
@@ -19229,11 +19124,11 @@
       "miles": 130000,
       "city": "Lawrence, KS",
       "days": 43,
-      "title": "unknown",
+      "title": "salvage",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재"
     },
     {
       "id": "1371704107680705",
@@ -19241,14 +19136,14 @@
       "model": "Nissan Versa",
       "vehicle": "2016 Nissan Versa",
       "price": 6000,
-      "miles": 121000,
+      "miles": 121448,
       "city": "Leavenworth, KS",
       "days": 43,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1510081214224414",
@@ -19256,20 +19151,20 @@
       "model": "Honda Odyssey",
       "vehicle": "2012 Honda Odyssey",
       "price": 5995,
-      "miles": 236000,
+      "miles": 236676,
       "city": "Kansas City, MO",
       "days": 44,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1747931539561466",
       "year": 2016,
       "model": "Buick Enclave",
-      "vehicle": "2016 Buick Enclave",
+      "vehicle": "2016 Buick Enclave Enclave",
       "price": 6000,
       "miles": 136000,
       "city": "Kansas City, KS",
@@ -19278,7 +19173,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1482505267254832",
@@ -19289,11 +19184,11 @@
       "miles": 121000,
       "city": "Roeland Park, KS",
       "days": 49,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1610436760728461",
@@ -19301,14 +19196,14 @@
       "model": "Chrysler Pacifica",
       "vehicle": "2017 Chrysler Pacifica Touring L",
       "price": 5889,
-      "miles": 187000,
+      "miles": 187758,
       "city": "Kansas City, MO",
       "days": 50,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2147840042790076",
@@ -19316,14 +19211,14 @@
       "model": "Toyota Highlander",
       "vehicle": "2012 Toyota Highlander base",
       "price": 5999,
-      "miles": 222000,
+      "miles": 222124,
       "city": "Belton, MO",
       "days": 51,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "1456220836269004",
@@ -19338,13 +19233,13 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1040673962037615",
       "year": 2014,
       "model": "Chevrolet Silverado 1500",
-      "vehicle": "2014 Chevrolet Silverado 1500",
+      "vehicle": "2014 Chevrolet Silverado 1500 Long Bed",
       "price": 5999,
       "miles": null,
       "city": "Kansas City, MO",
@@ -19353,7 +19248,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회 · 주행거리 표기 이상(원문 20,000 mi)"
+      "note": "주행거리 표기 이상(원문 20,800 mi)"
     },
     {
       "id": "1041743164994826",
@@ -19361,14 +19256,14 @@
       "model": "Ford Edge",
       "vehicle": "2014 Ford Edge",
       "price": 5850,
-      "miles": 148000,
+      "miles": 148545,
       "city": "Kansas City, MO",
       "days": 56,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1570876844448885",
@@ -19376,14 +19271,14 @@
       "model": "Buick Regal",
       "vehicle": "2013 Buick Regal Turbo Premium 1",
       "price": 6000,
-      "miles": 102000,
+      "miles": 102700,
       "city": "Lee's Summit, MO",
       "days": 56,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재"
     },
     {
       "id": "1566051798397075",
@@ -19391,14 +19286,14 @@
       "model": "Ford Edge",
       "vehicle": "2012 Ford Edge SEL",
       "price": 5950,
-      "miles": 235000,
+      "miles": 235252,
       "city": "Spring Hill, KS",
       "days": 56,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "3259909224188790",
@@ -19406,14 +19301,14 @@
       "model": "Chevrolet Equinox",
       "vehicle": "2019 Chevrolet Equinox",
       "price": 5500,
-      "miles": 199000,
+      "miles": 199955,
       "city": "Kansas City, MO",
       "days": 59,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1554405376227012",
@@ -19421,14 +19316,14 @@
       "model": "Jeep Compass",
       "vehicle": "2014 Jeep Compass",
       "price": 6000,
-      "miles": 162000,
+      "miles": 162017,
       "city": "Kansas City, MO",
       "days": 60,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "1689423118983456",
@@ -19436,14 +19331,14 @@
       "model": "Jeep Compass",
       "vehicle": "2017 Jeep Compass 75th Anniversary",
       "price": 5500,
-      "miles": 160000,
+      "miles": 160115,
       "city": "Shawnee, KS",
       "days": 61,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "845138655351164",
@@ -19451,14 +19346,14 @@
       "model": "GMC Terrain",
       "vehicle": "2014 GMC Terrain",
       "price": 5500,
-      "miles": 155000,
+      "miles": 155467,
       "city": "Olathe, KS",
       "days": 62,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1371093041647097",
@@ -19469,11 +19364,11 @@
       "miles": 191000,
       "city": "Grandview, MO",
       "days": 65,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1007732131891115",
@@ -19488,22 +19383,22 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1693468841923818",
       "year": 2008,
       "model": "Chevrolet Silverado 1500",
-      "vehicle": "2008 Chevrolet Silverado 1500",
+      "vehicle": "2008 Chevrolet Silverado 1500 Short Bed",
       "price": 6000,
-      "miles": 123000,
+      "miles": 123456,
       "city": "Bates City, MO",
       "days": 66,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1647136676394085",
@@ -19514,11 +19409,11 @@
       "miles": 238000,
       "city": "Kansas City, KS",
       "days": 66,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1458503936657689",
@@ -19529,11 +19424,11 @@
       "miles": 180000,
       "city": "Kansas City, MO",
       "days": 72,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2511849302585739",
@@ -19541,14 +19436,14 @@
       "model": "Ford Explorer",
       "vehicle": "2015 Ford Explorer XLS",
       "price": 6000,
-      "miles": 167000,
+      "miles": 167700,
       "city": "Independence, MO",
       "days": 76,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회 · 같은 차 2건 게시"
+      "note": "설명 없음 · 같은 차 2건 게시"
     },
     {
       "id": "1677084373410926",
@@ -19556,14 +19451,14 @@
       "model": "Mazda3",
       "vehicle": "2010 Mazda3 i touring",
       "price": 5995,
-      "miles": 142000,
+      "miles": 142070,
       "city": "Liberty, MO",
       "days": 78,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "2092906678319241",
@@ -19578,7 +19473,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "865483556185690",
@@ -19589,26 +19484,26 @@
       "miles": 140000,
       "city": "Independence, MO",
       "days": 87,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재"
     },
     {
       "id": "26797146876630519",
       "year": 2014,
       "model": "Chevrolet Silverado 1500",
-      "vehicle": "2014 Chevrolet Silverado 1500",
+      "vehicle": "2014 Chevrolet Silverado 1500 Long Bed",
       "price": 5999,
-      "miles": 207000,
+      "miles": 207937,
       "city": "Kansas City, MO",
       "days": 89,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1537163021403138",
@@ -19616,14 +19511,14 @@
       "model": "Cadillac SRX",
       "vehicle": "2010 Cadillac SRX",
       "price": 5900,
-      "miles": 149000,
+      "miles": 149566,
       "city": "Overland Park, KS",
       "days": 89,
-      "title": "unknown",
+      "title": "rebuilt",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1568057125113106",
@@ -19634,11 +19529,11 @@
       "miles": 134000,
       "city": "Lawrence, KS",
       "days": 91,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "993386516568530",
@@ -19653,7 +19548,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회 · 주행거리 표기 이상(원문 13,000 mi)"
+      "note": "주행거리 표기 이상(원문 13,100 mi)"
     },
     {
       "id": "1318493973584626",
@@ -19661,14 +19556,14 @@
       "model": "Kia Sportage",
       "vehicle": "2019 Kia Sportage LX",
       "price": 6000,
-      "miles": 161000,
+      "miles": 161345,
       "city": "Kansas City, MO",
       "days": 111,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1504821741111415",
@@ -19683,7 +19578,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "엔진 경고등 기재"
     },
     {
       "id": "1298875965185027",
@@ -19694,11 +19589,11 @@
       "miles": 137000,
       "city": "Overland Park, KS",
       "days": 79,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "811204251542869",
@@ -19706,14 +19601,14 @@
       "model": "Subaru Forester",
       "vehicle": "2017 Subaru Forester 2.5i",
       "price": 5500,
-      "miles": 288000,
+      "miles": 288450,
       "city": "Kansas City, MO",
       "days": 169,
       "title": "unknown",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "1051828934346119",
@@ -19724,11 +19619,11 @@
       "miles": 166000,
       "city": "Olathe, KS",
       "days": 0,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": "설명 없음"
     },
     {
       "id": "1402339501315497",
@@ -19743,7 +19638,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1800425167766245",
@@ -19751,14 +19646,14 @@
       "model": "Toyota Avalon",
       "vehicle": "2009 Toyota Avalon XLS",
       "price": 6546,
-      "miles": 205000,
+      "miles": 205988,
       "city": "Kansas City, MO",
       "days": 2,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1065088863020690",
@@ -19773,7 +19668,7 @@
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1450016180322001",
@@ -19781,14 +19676,14 @@
       "model": "Ford Explorer",
       "vehicle": "2010 Ford Explorer",
       "price": 6950,
-      "miles": 171000,
+      "miles": 171500,
       "city": "Spring Hill, KS",
       "days": 3,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
-      "dealer": false,
-      "note": "상세 미조회"
+      "dealer": true,
+      "note": ""
     },
     {
       "id": "1664441985291614",
@@ -19799,11 +19694,11 @@
       "miles": 127000,
       "city": "Lenexa, KS",
       "days": 4,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1095331826288539",
@@ -19814,11 +19709,11 @@
       "miles": 193000,
       "city": "Kansas City, KS",
       "days": 4,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1608736377590972",
@@ -19826,14 +19721,14 @@
       "model": "Ford Fiesta",
       "vehicle": "2018 Ford Fiesta S",
       "price": 6600,
-      "miles": 58000,
+      "miles": 58769,
       "city": "Shawnee, KS",
       "days": 5,
       "title": "unknown",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "2159618334981936",
@@ -19844,11 +19739,11 @@
       "miles": 153000,
       "city": "Kansas City, MO",
       "days": 5,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": true,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1022473150818527",
@@ -19859,11 +19754,11 @@
       "miles": 115000,
       "city": "Lee's Summit, MO",
       "days": 5,
-      "title": "unknown",
+      "title": "clean",
       "pick": false,
       "avoid": false,
       "dealer": false,
-      "note": "상세 미조회"
+      "note": ""
     },
     {
       "id": "1600131104827201",
@@ -23648,8 +23543,8 @@
     {
       "id": "1574573744395286",
       "year": 2013,
-      "model": "Jeep Grand Cherokee L",
-      "vehicle": "2013 Jeep Grand Cherokee L l Limited",
+      "model": "Jeep Grand Cherokee",
+      "vehicle": "2013 Jeep Grand Cherokee Limited",
       "price": 2500,
       "miles": 187000,
       "city": "Independence, MO",
@@ -25763,8 +25658,8 @@
     {
       "id": "901674802688414",
       "year": 2011,
-      "model": "Jeep Grand Cherokee L",
-      "vehicle": "2011 Jeep Grand Cherokee L Limited",
+      "model": "Jeep Grand Cherokee",
+      "vehicle": "2011 Jeep Grand Cherokee Limited",
       "price": 3500,
       "miles": 160000,
       "city": "Independence, MO",
