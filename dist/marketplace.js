@@ -22,9 +22,9 @@ window.MarketCompare = (() => {
   const scope = () => `${esc(d.search.center)} 반경 ${d.search.radiusMiles}mi · 호가 ${cash(d.search.priceMin)}–${cash(d.search.priceMax)} · ${esc(d.checkedAt)} 조회`;
   const rule = () => { const c = d.costRule; return `조건부 총액 = 호가 + 세금 ${c.taxRate * 100}% 적립 + 등록·검사 ${cash(c.registration)} + 구매 전 점검 ${cash(c.inspection)} + 초기 정비 ${cash(c.maintenance)}, $100 단위 올림. 흥정·보험·추가 수리비는 반영하지 않았습니다.`; };
 
-  function table(list) {
-    const rows = list.map(x => `<tr><td>${link(x)}${x.pick ? ' <b class="market-tag">추천</b>' : ''}${x.avoid ? ' <b class="market-tag warn">주의</b>' : ''}</td><td><b>${cash(x.price)}</b></td><td>${cash(total(x))}</td><td>${miles(x.miles)}</td><td>${TITLE[x.title]}</td><td>${esc(x.city)}<br><small>${x.days ? x.days + '일 전' : '오늘'} 게시</small></td><td>${esc([x.note, x.dealer && '딜러·업자 판매'].filter(Boolean).join(' · '))}</td></tr>`).join('');
-    return `<div class="market-scroll"><table><thead><tr>${['FB 매물', '호가', '조건부 총액', '주행거리', '타이틀', '위치·게시', '판매자 설명 요약'].map(h => `<th scope="col">${h}</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table></div>`;
+  function table(list, score) {
+    const rows = list.map(x => `<tr><td>${link(x)}${x.pick ? ' <b class="market-tag">추천</b>' : ''}${x.avoid ? ' <b class="market-tag warn">주의</b>' : ''}</td><td><b>${cash(x.price)}</b></td><td>${cash(total(x))}</td><td>${miles(x.miles)}</td><td>${TITLE[x.title]}</td><td>${esc(x.city)}<br><small>${x.days ? x.days + '일 전' : '오늘'} 게시</small></td><td>${esc([x.note, x.dealer && '딜러·업자 판매'].filter(Boolean).join(' · '))}</td>${score ? `<td><b>${x.score}</b></td>` : ''}</tr>`).join('');
+    return `<div class="market-scroll"><table><thead><tr>${['FB 매물', '호가', '조건부 총액', '주행거리', '타이틀', '위치·게시', '판매자 설명 요약', ...(score ? ['점수 /100'] : [])].map(h => `<th scope="col">${h}</th>`).join('')}</tr></thead><tbody>${rows}</tbody></table></div>`;
   }
 
   function mountCards() {
@@ -64,19 +64,28 @@ window.MarketCompare = (() => {
     document.querySelector('#market-picks').innerHTML = table(d.listings.filter(x => x.pick).sort((a, b) => a.price - b.price));
     document.querySelector('#market-avoid').innerHTML = table(d.listings.filter(x => x.avoid));
 
-    const model = document.querySelector('#market-model'), title = document.querySelector('#market-title'), out = document.querySelector('#market-all');
+    for (const x of d.listings) x.score = sum(parts({...x, doc:fbDoc(x)}));
+    const $ = id => document.querySelector('#' + id);
+    const model = $('market-model'), title = $('market-title'), out = $('market-all');
+    const [q, price, year, mi, state, seller, days, sort, safe, detail] = ['q', 'price', 'year', 'miles', 'state', 'seller', 'days', 'sort', 'safe', 'detail'].map(k => $('fb-' + k));
+    const SORT = {score:(a, b) => b.score - a.score || a.price - b.price, price:(a, b) => a.price - b.price, year:(a, b) => b.year - a.year || a.price - b.price,
+      miles:(a, b) => (a.miles ?? Infinity) - (b.miles ?? Infinity), days:(a, b) => a.days - b.days, title:byTitle};
     const counts = {};
     for (const x of d.listings) counts[x.model] = (counts[x.model] || 0) + 1;
     model.innerHTML = `<option value="all">전체 차종</option>` + Object.keys(counts).sort().map(m => `<option value="${esc(m)}">${esc(m)} (${counts[m]})</option>`).join('');
     const render = () => {
-      const list = d.listings.filter(x => (model.value === 'all' || x.model === model.value) && (title.value === 'all' || x.title === title.value)).sort(byTitle);
-      document.querySelector('#count').textContent = `${list.length}건 표시`;
-      out.innerHTML = list.length ? table(list) : '<p role="status">조건에 맞는 매물이 없습니다.</p>';
+      const s = q.value.trim().toLowerCase();
+      const list = d.listings.filter(x => (model.value === 'all' || x.model === model.value) && (title.value === 'all' || x.title === title.value)
+        && (!price.value || x.price <= +price.value) && (!year.value || x.year >= +year.value) && (!mi.value || x.miles != null && x.miles <= +mi.value)
+        && (!state.value || x.city.endsWith(', ' + state.value)) && (!seller.value || x.dealer === (seller.value === 'dealer')) && (!days.value || x.days <= +days.value)
+        && !(safe.checked && x.avoid) && !(detail.checked && x.note.includes('상세 미조회')) && (!s || `${x.vehicle} ${x.city} ${x.note}`.toLowerCase().includes(s))).sort(SORT[sort.value]);
+      $('count').textContent = `${list.length}건 표시`;
+      out.innerHTML = list.length ? table(list, true) : '<p role="status">조건에 맞는 매물이 없습니다.</p>';
     };
-    model.addEventListener('change', render);
-    title.addEventListener('change', render);
+    for (const el of [model, title, q, price, year, mi, state, seller, days, sort, safe, detail]) el.addEventListener(el === q ? 'input' : 'change', render);
     render();
     mountRank(cars);
+    if (location.hash === '#fb-all') $('fb-all').scrollIntoView();
   }
 
   /* One 100-point scale for Copart Kansas City lots (price = similar-auction average) and FB listings (price = asking). */
@@ -84,6 +93,9 @@ window.MarketCompare = (() => {
   const FB_DOC = {clean:20, unknown:12, rebuilt:10, salvage:6};
   const copartDoc = damage => damage.includes('+') ? 3 : /mechanical/i.test(damage) ? 2 : /front|rear|side|roof|under/i.test(damage) ? 5 : 8;
   const scale = (v, best, worst, pts) => Math.round(Math.max(0, Math.min(1, (v - worst) / (best - worst))) * pts * 10) / 10;
+  const parts = e => [scale(e.price, 500, 10000, 35), scale(e.year, 2024, 2008, 20), e.miles == null ? 0 : scale(e.miles, 30000, 230000, 25), e.doc];
+  const sum = p => Math.round(p.reduce((a, b) => a + b, 0) * 10) / 10;
+  const fbDoc = x => x.avoid ? 0 : FB_DOC[x.title];
 
   function mountRank(cars) {
     const out = document.querySelector('#market-rank');
@@ -94,11 +106,11 @@ window.MarketCompare = (() => {
       doc:copartDoc(c.damage), docText:`KS Salvage · ${c.damage}`, status:(AVAIL[c.availability] || c.availability) + (c.finalBid ? ` · 낙찰가 ${cash(c.finalBid.price)}` : '') + (c.ceilingCheck ? ` · 상한 승산 ${c.ceilingCheck.wins}/${c.ceilingCheck.of}` : ''), closed:['sold', 'ended'].includes(c.availability)}));
     const fb = d.listings.map(x => ({
       source:'FB', id:x.id, vehicle:x.vehicle, url:`https://www.facebook.com/marketplace/item/${x.id}/`, year:x.year, miles:x.miles, price:x.price,
-      doc:x.avoid ? 0 : FB_DOC[x.title], docText:[TITLE[x.title], x.note].filter(Boolean).join(' · '), status:`${x.days ? x.days + '일 전' : '오늘'} 게시`, closed:false, avoid:x.avoid}));
+      doc:fbDoc(x), docText:[TITLE[x.title], x.note].filter(Boolean).join(' · '), status:`${x.days ? x.days + '일 전' : '오늘'} 게시`, closed:false, avoid:x.avoid}));
     const ranked = [...copart, ...fb].filter(e => e.price != null);
     for (const e of ranked) {
-      e.parts = [scale(e.price, 500, 10000, 35), scale(e.year, 2024, 2008, 20), e.miles == null ? 0 : scale(e.miles, 30000, 230000, 25), e.doc];
-      e.score = Math.round(e.parts.reduce((a, b) => a + b, 0) * 10) / 10;
+      e.parts = parts(e);
+      e.score = sum(e.parts);
     }
     ranked.sort((a, b) => b.score - a.score || a.price - b.price).forEach((e, i) => { e.rank = i + 1; });
     const missing = copart.filter(e => e.price == null);
