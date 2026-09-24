@@ -3,9 +3,10 @@ window.MarketCompare = (() => {
   let d;
   const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const cash = n => '$' + Number(n).toLocaleString('en-US');
-  const miles = n => Number(n).toLocaleString('en-US') + ' mi';
+  const miles = n => n == null ? '주행거리 미기재' : Number(n).toLocaleString('en-US') + ' mi';
   const kmi = n => Math.round(n / 1000) + 'K';
   const range = (values, f = x => x) => {
+    values = values.filter(v => v != null);
     if (!values.length) return '—';
     const lo = Math.min(...values), hi = Math.max(...values);
     return lo === hi ? f(lo) : f(lo) + '–' + f(hi);
@@ -96,7 +97,7 @@ window.MarketCompare = (() => {
       doc:x.avoid ? 0 : FB_DOC[x.title], docText:[TITLE[x.title], x.note].filter(Boolean).join(' · '), status:`${x.days ? x.days + '일 전' : '오늘'} 게시`, closed:false, avoid:x.avoid}));
     const ranked = [...copart, ...fb].filter(e => e.price != null);
     for (const e of ranked) {
-      e.parts = [scale(e.price, 500, 10000, 35), scale(e.year, 2024, 2008, 20), scale(e.miles, 30000, 230000, 25), e.doc];
+      e.parts = [scale(e.price, 500, 10000, 35), scale(e.year, 2024, 2008, 20), e.miles == null ? 0 : scale(e.miles, 30000, 230000, 25), e.doc];
       e.score = Math.round(e.parts.reduce((a, b) => a + b, 0) * 10) / 10;
     }
     ranked.sort((a, b) => b.score - a.score || a.price - b.price).forEach((e, i) => { e.rank = i + 1; });

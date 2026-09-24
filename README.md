@@ -29,7 +29,7 @@ git push origin main
 - `dist/es.html`: JSON을 읽는 스페인어 화면.
 - `dist/copart-current.json`: 차량별 조회 시점의 판매 상태.
 - `dist/auction-comps.json`: 유사 차량 경매 표본.
-- `dist/marketplace-2026-09-23.json`: 2026-09-23 Facebook Marketplace 스냅샷(Overland Park 40mi, $4,000–$7,500). `dist/marketplace.js`가 통합 목록 카드와 `dist/marketplace.html`에 표시합니다.
+- `dist/marketplace-2026-09-23.json`: 2026-09-23 Facebook Marketplace 스냅샷(Overland Park 40mi, $0–$7,999). `dist/marketplace.js`가 통합 목록 카드와 `dist/marketplace.html`에 표시합니다.
 - `scripts/`: 특정 날짜의 갱신 기록을 반영한 일회성 스크립트. 현재 데이터에 과거 스크립트를 다시 실행하지 마세요.
 
 ## 로컬 미리보기
