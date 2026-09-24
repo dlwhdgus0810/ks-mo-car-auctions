@@ -90,7 +90,7 @@ window.MarketCompare = (() => {
     const copart = cars.filter(c => c.yard === 'KC').map(c => ({
       source:'Copart KC', id:c.id, vehicle:c.vehicle, url:c.url, year:+c.vehicle.slice(0, 4), miles:c.miles,
       price:c.comparisonAverage == null ? null : Math.round(c.comparisonAverage), count:c.comparisonAverageCount, total:c.roundedTotal,
-      doc:copartDoc(c.damage), docText:`KS Salvage · ${c.damage}`, status:(AVAIL[c.availability] || c.availability) + (c.finalBid ? ` · 낙찰가 ${cash(c.finalBid.price)}` : ''), closed:['sold', 'ended'].includes(c.availability)}));
+      doc:copartDoc(c.damage), docText:`KS Salvage · ${c.damage}`, status:(AVAIL[c.availability] || c.availability) + (c.finalBid ? ` · 낙찰가 ${cash(c.finalBid.price)}` : '') + (c.ceilingCheck ? ` · 상한 승산 ${c.ceilingCheck.wins}/${c.ceilingCheck.of}` : ''), closed:['sold', 'ended'].includes(c.availability)}));
     const fb = d.listings.map(x => ({
       source:'FB', id:x.id, vehicle:x.vehicle, url:`https://www.facebook.com/marketplace/item/${x.id}/`, year:x.year, miles:x.miles, price:x.price,
       doc:x.avoid ? 0 : FB_DOC[x.title], docText:[TITLE[x.title], x.note].filter(Boolean).join(' · '), status:`${x.days ? x.days + '일 전' : '오늘'} 게시`, closed:false, avoid:x.avoid}));

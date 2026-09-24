@@ -745,6 +745,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-20"
+    },
+    "ceilingCheck": {
+      "ratio": 1.18,
+      "wins": 1,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -951,6 +957,12 @@
       "auction": "Future",
       "titleDocument": "IA - Cert Of Title-salvage Title",
       "currentCheckedAt": "2026-09-20"
+    },
+    "ceilingCheck": {
+      "ratio": 0.83,
+      "wins": 1,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -1602,6 +1614,13 @@
       "currentBid": 175,
       "auction": "Thu. Sep 17, 2026 12:00 PM CDT",
       "currentCheckedAt": "2026-09-16"
+    },
+    "finalBid": {
+      "price": 8600,
+      "date": "2026-09-17",
+      "reserveMet": "Yes",
+      "source": "https://finalbid.vin/en/honda/civic/2018/copart-66814326-19XFC2F52JE003328",
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -1804,6 +1823,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-20"
+    },
+    "ceilingCheck": {
+      "ratio": 0.93,
+      "wins": 1,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -1995,6 +2020,12 @@
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
       "currentCheckedAt": "2026-09-20"
+    },
+    "ceilingCheck": {
+      "ratio": 1.0,
+      "wins": 1,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -2163,6 +2194,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-20"
+    },
+    "ceilingCheck": {
+      "ratio": 1.68,
+      "wins": 5,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -2477,6 +2514,12 @@
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
       "currentCheckedAt": "2026-09-20"
+    },
+    "ceilingCheck": {
+      "ratio": 1.2,
+      "wins": 1,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -2674,6 +2717,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-20"
+    },
+    "ceilingCheck": {
+      "ratio": 0.59,
+      "wins": 0,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -2861,6 +2910,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-20"
+    },
+    "ceilingCheck": {
+      "ratio": 1.9,
+      "wins": 5,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -3035,6 +3090,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-21"
+    },
+    "ceilingCheck": {
+      "ratio": 0.92,
+      "wins": 1,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -3230,6 +3291,13 @@
       "currentBid": 250,
       "auction": "Thu. Sep 17, 2026 12:00 PM CDT",
       "currentCheckedAt": "2026-09-16"
+    },
+    "finalBid": {
+      "price": 4800,
+      "date": "2026-09-17",
+      "reserveMet": "No",
+      "source": "https://finalbid.vin/en/subaru/legacy/2017/copart-65278226-4S3BNAC67H3033961",
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -3778,6 +3846,12 @@
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
       "currentCheckedAt": "2026-09-21"
+    },
+    "ceilingCheck": {
+      "ratio": 0.81,
+      "wins": 1,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -3958,6 +4032,12 @@
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
       "currentCheckedAt": "2026-09-16"
+    },
+    "ceilingCheck": {
+      "ratio": 0.46,
+      "wins": 0,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -4479,6 +4559,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-16"
+    },
+    "ceilingCheck": {
+      "ratio": 0.78,
+      "wins": 0,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -4827,6 +4913,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-16"
+    },
+    "ceilingCheck": {
+      "ratio": 0.7,
+      "wins": 0,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -5182,6 +5274,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-16"
+    },
+    "ceilingCheck": {
+      "ratio": 1.14,
+      "wins": 1,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -6089,7 +6187,14 @@
     "comparisonRecords": 4,
     "comparisonCheckedAt": "2026-09-23",
     "comparisonAverage": 5587.5,
-    "comparisonAverageCount": 4
+    "comparisonAverageCount": 4,
+    "finalBid": {
+      "price": 4400,
+      "date": "2026-09-15",
+      "reserveMet": "Yes",
+      "source": "https://finalbid.vin/en/honda/cr-v/2017/copart-65599336-7FARW5H3XHE008335",
+      "checkedAt": "2026-09-23"
+    }
   },
   {
     "rank": 38,
@@ -6447,6 +6552,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-16"
+    },
+    "ceilingCheck": {
+      "ratio": 1.22,
+      "wins": 2,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -7805,6 +7916,12 @@
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
       "currentCheckedAt": "2026-09-16"
+    },
+    "ceilingCheck": {
+      "ratio": 0.78,
+      "wins": 0,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -8102,6 +8219,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-16"
+    },
+    "ceilingCheck": {
+      "ratio": 0.98,
+      "wins": 1,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -8283,6 +8406,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-16"
+    },
+    "ceilingCheck": {
+      "ratio": 0.78,
+      "wins": 0,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -8923,6 +9052,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-16"
+    },
+    "ceilingCheck": {
+      "ratio": 0.52,
+      "wins": 0,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -9339,6 +9474,12 @@
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
       "currentCheckedAt": "2026-09-16"
+    },
+    "ceilingCheck": {
+      "ratio": 1.43,
+      "wins": 3,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -9689,6 +9830,12 @@
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
       "currentCheckedAt": "2026-09-16"
+    },
+    "ceilingCheck": {
+      "ratio": 1.01,
+      "wins": 1,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -10515,6 +10662,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-16"
+    },
+    "ceilingCheck": {
+      "ratio": 0.7,
+      "wins": 0,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -12572,6 +12725,12 @@
       "auction": "Future",
       "titleDocument": "MO - Salvage Certificate Of Title",
       "currentCheckedAt": "2026-09-20"
+    },
+    "ceilingCheck": {
+      "ratio": 1.15,
+      "wins": 1,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -12655,6 +12814,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-20"
+    },
+    "ceilingCheck": {
+      "ratio": 0.53,
+      "wins": 0,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -12738,6 +12903,12 @@
       "auction": "Future",
       "titleDocument": "KS - Cert Of Title-salvage",
       "currentCheckedAt": "2026-09-20"
+    },
+    "ceilingCheck": {
+      "ratio": 3.08,
+      "wins": 7,
+      "of": 7,
+      "checkedAt": "2026-09-23"
     }
   },
   {
@@ -13065,7 +13236,13 @@
       "currentCheckedAt": "2026-09-21"
     },
     "auctionNote": "현재 입찰가는 최종 낙찰가가 아닙니다. 판매 완료 차량의 최종 가격은 공개 화면에 미표시.",
-    "comparisonCheckedAt": "2026-09-23"
+    "comparisonCheckedAt": "2026-09-23",
+    "ceilingCheck": {
+      "ratio": 0.77,
+      "wins": 0,
+      "of": 7,
+      "checkedAt": "2026-09-23"
+    }
   },
   {
     "id": "69125816",
@@ -13137,7 +13314,13 @@
     "budgetNote": "임시 예산 배분이며 수리 견적·최종 수수료가 아닙니다. 입찰 상한 이하 낙찰 및 실차 진단이 조건이며, 우박 차량의 전체 외관 복원은 제외합니다.",
     "firstObservedAt": "2026-09-23",
     "needsBroker": false,
-    "comparisonCheckedAt": "2026-09-23"
+    "comparisonCheckedAt": "2026-09-23",
+    "ceilingCheck": {
+      "ratio": 0.67,
+      "wins": 0,
+      "of": 7,
+      "checkedAt": "2026-09-23"
+    }
   },
   {
     "id": "67610536",
@@ -13280,6 +13463,12 @@
     "budgetNote": "임시 예산 배분이며 수리 견적·최종 수수료가 아닙니다. 입찰 상한 이하 낙찰 및 실차 진단이 조건이며, 우박 차량의 전체 외관 복원은 제외합니다.",
     "firstObservedAt": "2026-09-23",
     "needsBroker": false,
-    "comparisonCheckedAt": "2026-09-23"
+    "comparisonCheckedAt": "2026-09-23",
+    "ceilingCheck": {
+      "ratio": 0.46,
+      "wins": 0,
+      "of": 7,
+      "checkedAt": "2026-09-23"
+    }
   }
 ]
