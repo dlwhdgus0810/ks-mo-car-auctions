@@ -67,7 +67,7 @@ window.MarketCompare = (() => {
     for (const x of d.listings) x.score = sum(parts({...x, doc:fbDoc(x)}));
     const $ = id => document.querySelector('#' + id);
     const model = $('market-model'), title = $('market-title'), out = $('market-all');
-    const [q, price, year, mi, state, seller, days, sort, safe, detail] = ['q', 'price', 'year', 'miles', 'state', 'seller', 'days', 'sort', 'safe', 'detail'].map(k => $('fb-' + k));
+    const [added, q, price, year, mi, state, seller, days, sort, safe, detail] = ['added', 'q', 'price', 'year', 'miles', 'state', 'seller', 'days', 'sort', 'safe', 'detail'].map(k => $('fb-' + k));
     const SORT = {score:(a, b) => b.score - a.score || a.price - b.price, price:(a, b) => a.price - b.price, year:(a, b) => b.year - a.year || a.price - b.price,
       miles:(a, b) => (a.miles ?? Infinity) - (b.miles ?? Infinity), days:(a, b) => a.days - b.days, title:byTitle};
     const counts = {};
@@ -75,17 +75,25 @@ window.MarketCompare = (() => {
     model.innerHTML = `<option value="all">전체 차종</option>` + Object.keys(counts).sort().map(m => `<option value="${esc(m)}">${esc(m)} (${counts[m]})</option>`).join('');
     const render = () => {
       const s = q.value.trim().toLowerCase();
-      const list = d.listings.filter(x => (model.value === 'all' || x.model === model.value) && (title.value === 'all' || x.title === title.value)
+      const list = d.listings.filter(x => (!added.value || x.added === added.value) && (model.value === 'all' || x.model === model.value) && (title.value === 'all' || x.title === title.value)
         && (!price.value || x.price <= +price.value) && (!year.value || x.year >= +year.value) && (!mi.value || x.miles != null && x.miles <= +mi.value)
         && (!state.value || x.city.endsWith(', ' + state.value)) && (!seller.value || x.dealer === (seller.value === 'dealer')) && (!days.value || x.days <= +days.value)
         && !(safe.checked && x.avoid) && !(detail.checked && x.note.includes('상세 미조회')) && (!s || `${x.vehicle} ${x.city} ${x.note}`.toLowerCase().includes(s))).sort(SORT[sort.value]);
       $('count').textContent = `${list.length}건 표시`;
       out.innerHTML = list.length ? table(list, true) : '<p role="status">조건에 맞는 매물이 없습니다.</p>';
     };
-    for (const el of [model, title, q, price, year, mi, state, seller, days, sort, safe, detail]) el.addEventListener(el === q ? 'input' : 'change', render);
+    for (const el of [added, model, title, q, price, year, mi, state, seller, days, sort, safe, detail]) el.addEventListener(el === q ? 'input' : 'change', render);
     render();
     mountRank(cars);
-    if (location.hash === '#fb-all') $('fb-all').scrollIntoView();
+    // #fb-all = every FB listing, #fb-new = only the 9/28 additions; works on load and on in-page links
+    const fromHash = () => {
+      if (!/^#fb-(all|new)$/.test(location.hash)) return;
+      added.value = location.hash === '#fb-new' ? '2026-09-28' : '';
+      render();
+      $('fb-all').scrollIntoView();
+    };
+    window.addEventListener('hashchange', fromHash);
+    fromHash();
   }
 
   /* One 100-point scale for Copart Kansas City lots (price = similar-auction average) and FB listings (price = asking). */
